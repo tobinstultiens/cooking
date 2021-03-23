@@ -10,14 +10,14 @@ Got the recipe from this [[https://www.youtube.com/watch?v=Upqp21Dm5vg][video]].
 
 - 2-3 large, ripe tomatoes - firm, fragrant, preferably on the vine
 - 1 medium red onion
-- Cilantro (very optional, substitute with parsley if you're like me)
-- 1 Jalapeño
+- 1 Jalapeño or a small piece of habanero
 - Fresh garlic (1 clove)
-- Kosher salt
-- Freshly ground pepper
+- salt to taste
+- Freshly ground pepper to taste
+- Scallions, aka green onions (one)
+- parsley (optional)
 - 1 red bell pepper (optional)
 - 1 mango (optional) - soft but not mushy to the touch
-- Scallions, aka green onions (one)
 
 ** Focaccia Sandwich and Pizza :Bread:Pizza:Sandwich:
 This [[https://www.youtube.com/watch?v=eq8vuOSnV68][video]] seemed interesting about how they make use of focaccia
@@ -26,8 +26,9 @@ This [[https://www.youtube.com/watch?v=eq8vuOSnV68][video]] seemed interesting a
 This [[https://www.youtube.com/watch?v=HTD-z1wd0tw&t=0s][video]] seemed like an easy way to make this bread
 
 ** Flour Tortillas :Bread:Mexican:
-I have attempted to make these once they were quite succesful I only struggled with making them round I hope this [[https://youtu.be/j0gjlSgO7VU?t=64][video]] helps me with how to roll them next time.
-The [[https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/][recipe]] I followed when I was making them.
+The only struggled is with making them round this [[https://youtu.be/j0gjlSgO7VU?t=64][video]] helps with how you should roll them.
+This is the [[https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/][recipe]] I followed when I was making them.
+Making them round is really hard a [[https://www.amazon.com/Victoria-TOR-003-FBA_TOR-003-Tortilla-Press/dp/B00HWEIKZO][tortilla press]] could help with this.
 |--------+---------------+----------+---------------+------------------------+------------|
 | Amount | Platent bloem | Zout     | Baking powder | Extra virgin olive oil | Warm water |
 |--------+---------------+----------+---------------+------------------------+------------|
@@ -38,16 +39,16 @@ The [[https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/][recipe
 #+TBLFM: @3=@-1/@2$1::@4$2..@4$6=@-1*$1
 
 ** Miso Soup :Soup:Japanese:
-This [[https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/][recipe]] looked interesting
+This [[https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/][recipe]] was alright although quite fishy might need some adjustments.
 
 ** Pickled Onions :Pickled:
-This is quite a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
+This is a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
 
 ** Poblano con queso taco :Mexican:Cheese:Taco:
 This [[https://youtu.be/YtkyC2Ctz6E][recipe]] looked interesting.
 
 ** How to pimp my noodles :Noodles:
-This is a simple guid on how to pimp your [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodle]].
+This is a simple guide on how to pimp your instan [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodles]].
 
 ** Crispy Baked wings :Chicken:Wings:
 This just looks [[https://www.youtube.com/watch?v=mh2AXh1eRmE][good]].
@@ -68,6 +69,8 @@ Maybe watch out with the chili powder on this one.
 This looks like a better way to make a dip.
 
 ** Rice :Rice:
+This is the formule for how to make rice.
+The only requirement is that you wash your rice before following this.
 |---------------+---------|
 | Rijst         | Water   |
 |---------------+---------|
@@ -77,13 +80,15 @@ This looks like a better way to make a dip.
 |---------------+---------|
 
 ** Stir Fry :Template:Wok:
+This is a stir fry template here I describe the required parts of a stir fry and the optional parts.
+
 Required:
 - Garlic
 - Ginger
 
 Optional:
 Vegetable:
-- Mushroom
+- Mushrooms
 - Onion
 - Red pepper
 - Spring onion
@@ -151,13 +156,13 @@ Heb Korean red pepper paste vervangen door sambal oelek met wat maizena om het t
  
 Dit is heel goed gelukt 
  
-Kogelbiefstuk is hiervoor aangeraden.
+Kogelbiefstuk is hiervoor aan te raden.
 
 ** zha jiang min :Chinese:Noodles:Pork:
 [[https://youtu.be/NM4ArR-qbHQ][Link]] \\
 1-Hour Noodles \\
 Servings: 2 \\
- 
+\\ 
 Ingredients 
 - 2 tablespoons plus 1 teaspoon vegetable oil, divided 
 - 1 tablespoon plus 1 teaspoon minced garlic, divided 
@@ -277,6 +282,7 @@ Optional: 
 - Lente uien 
 - Tomatoes Diced 
 - Prosciutto  
+- Thinly sliced chorizo
 
 ** Sweet and sour chicken :Chicken:Chinese:Frying:
 [[https://www.youtube.com/watch?v=RUDPussbU04][Link]]
@@ -301,6 +307,7 @@ Ingredients: 
 For the love of god don't put any lemon in it
 Jesus fucking christ that's awful
 [[https://fussfreeflavours.com/easy-kebab-shop-garlic-sauce-recipe/][Link]]
+
 
 | Amount | Ingredient   |
 |--------+--------------|
