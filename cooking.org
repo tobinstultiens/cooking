@@ -1,0 +1,310 @@
+#+TITLE: Cooking
+#+DESCRIPTION: This is my cooking guide looking to replace this part on evernote with org.
+#+AUTHOR: Tobin Stultiens
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: tags:nil
+
+* Recipes
+** Salsa :Mexican:Sauce:
+Got the recipe from this [[https://www.youtube.com/watch?v=Upqp21Dm5vg][video]].
+
+- 2-3 large, ripe tomatoes - firm, fragrant, preferably on the vine
+- 1 medium red onion
+- Cilantro (very optional, substitute with parsley if you're like me)
+- 1 Jalapeño
+- Fresh garlic (1 clove)
+- Kosher salt
+- Freshly ground pepper
+- 1 red bell pepper (optional)
+- 1 mango (optional) - soft but not mushy to the touch
+- Scallions, aka green onions (one)
+** Focaccia Sandwich and Pizza :Bread:Pizza:Sandwich:
+This [[https://www.youtube.com/watch?v=eq8vuOSnV68][video]] seemed interesting about how they make use of focaccia
+
+** Focaccia Bread :Bread:
+This [[https://www.youtube.com/watch?v=HTD-z1wd0tw&t=0s][video]] seemed like an easy way to make this bread
+
+** Flour Tortillas :Bread:Mexican:
+I have attempted to make these once they were quite succesful I only struggled with making them round I hope this [[https://youtu.be/j0gjlSgO7VU?t=64][video]] helps me with how to roll them next time.
+The [[https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/][recipe]] I followed when I was making them.
+|--------+---------------+----------+---------------+------------------------+------------|
+| Amount | Platent bloem | Zout     | Baking powder | Extra virgin olive oil | Warm water |
+|--------+---------------+----------+---------------+------------------------+------------|
+|     16 | 375g          | 5g       | 5g            | 80ml                   | 240ml      |
+|      1 | 23.4375 g     | 0.3125 g | 0.3125 g      | 5 ml                   | 15 ml      |
+|     22 | 515.625 g     | 6.875 g  | 6.875 g       | 110 ml                 | 330 ml     |
+|--------+---------------+----------+---------------+------------------------+------------|
+#+TBLFM: @3=@-1/@2$1::@4$2..@4$6=@-1*$1
+
+** Miso Soup :Soup:Japanese:
+This [[https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/][recipe]] looked interesting
+
+** Pickled Onions :Pickled:
+This is quite a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
+
+** Poblano con queso taco :Mexican:Cheese:Taco:
+This [[https://youtu.be/YtkyC2Ctz6E][recipe]] looked interesting.
+
+** How to pimp my noodles :Noodles:
+This is a simple guid on how to pimp your [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodle]].
+
+** Crispy Baked wings :Chicken:Wings:
+This just looks [[https://www.youtube.com/watch?v=mh2AXh1eRmE][good]].
+
+** PK Chicken Karahi :Chicken:
+[[https://www.youtube.com/watch?v=4PMmH2-5wJM][link]]
+
+** Calzone :Italian:Pizza:
+[[https://www.youtube.com/watch?v=PrbpuNZyoUQ][link]]
+
+** Chicken Enchiladas :Chicken:Mexican:
+[[https://www.lekkerensimpel.com/enchiladas-met-kip/][The boring one]]
+[[https://www.allrecipes.com/recipe/8691/chicken-enchiladas-i][Spicy one]]
+Maybe watch out with the chili powder on this one.
+
+** Cheese dip :Cheese:Dip:
+[[https://www.youtube.com/watch?v=PTbdvND_YLQ][Sodium Citrate]]
+This looks like a better way to make a dip.
+
+** Rice :Rice:
+|---------------+---------|
+| Rijst         | Water   |
+|---------------+---------|
+| Sushi Rijst   | 1 + 1/3 |
+|---------------+---------|
+| Normale Rijst | 1 + 1/2 |
+|---------------+---------|
+
+** Stir Fry :Template:Wok:
+Required:
+- Garlic
+- Ginger
+
+Optional:
+Vegetable:
+- Mushroom
+- Onion
+- Red pepper
+- Spring onion
+- Peppers
+
+Meat:
+- Chicken
+- Pork
+- Beef
+
+Sauces:
+- Teriyaki Sauce
+- Soy based sauce
+
+** Korean Fried Chicken :Chicken:Korean:Frying:
+[[https://sorted.club/recipe/korean-fried-sweet-and-sour-chicken-with-sesame-sticky-rice/][Link of idea]]
+[[https://dinnerthendessert.com/korean-fried-chicken/][Link of the sauce]]
+
+** Teriyaki Sauce :Sauce:Japanese:
+*** 3 Ingredient Version
+Basic teriyaki sauce
+
+Ingredients: 
+- 1/3 cup Japanese mirin (sweet rice wine) 
+- 2 tablespoons soy sauce, low sodium preferred 
+- 1 tablespoon sugar 
+
+Instructions:
+1. Combine all the ingredients of the Teriyaki Sauce in a sauce pan. On low heat, simmer and reduce it to a thicker consistency, about 10 minutes.
+
+[[https://www.tasteandtellblog.com/teriyaki-chicken/][Another way to make teriyaki sauce]]
+[[https://www.bbcgoodfood.com/recipes/teriyaki-sauce][Fridge sauce]]
+
+*** Improved version
+Basic teriyaki sauce
+
+Ingredients: 
+- 1/3 cup Japanese mirin (sweet rice wine) 
+- 2 tablespoons soy sauce, low sodium preferred 
+- 1 tablespoon sugar 
+- 1-2 tablespoons honey
+- 1 cloves garlic
+
+Instructions:
+1. Combine all the ingredients of the Teriyaki Sauce in a sauce pan. On low heat, simmer and reduce it to a thicker consistency, about 10 minutes.
+
+[[https://www.tasteandtellblog.com/teriyaki-chicken/][Another way to make teriyaki sauce]]
+
+*** Storing version
+Ingredients: 
+- 1/3 cup Japanese mirin (sweet rice wine) 
+- 2 tablespoons soy sauce, low sodium preferred 
+- 1 tablespoon sugar 
+- 1-2 tablespoons honey
+- 1 cloves garlic
+
+[[https://www.bbcgoodfood.com/recipes/teriyaki-sauce][Fridge sauce]]
+
+** Spicy Sesame Rice Bowl :Rice_Bowl:Beef:
+[[https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/][Link]]
+
+Heb Korean red pepper paste vervangen door sambal oelek met wat maizena om het te verdikken 
+ 
+Dit is heel goed gelukt 
+ 
+Kogelbiefstuk is hiervoor aangeraden.
+
+** zha jiang min :Chinese:Noodles:Pork:
+[[https://youtu.be/NM4ArR-qbHQ][Link]]
+1-Hour Noodles 
+Servings: 2 
+ 
+Ingredients 
+2 tablespoons plus 1 teaspoon vegetable oil, divided 
+1 tablespoon plus 1 teaspoon minced garlic, divided 
+1 tablespoon minced fresh ginger 
+1 tablespoon minced shallot 
+4 ounces 80/20 ground pork 
+1 tablespoon fermented soy bean paste 
+1 tablespoon sweet bean sauce 
+1 teaspoon dark soy sauce 
+¼ cup cornstarch slurry (8 teaspoons cornstarch mixed with 4 teaspoons water) 
+1 large egg, beaten 
+360 grams fresh noodle of choice 
+1 Persian cucumber, thinly sliced 
+½ cup fresh cilantro leaves 
+ 
+Preparation 
+In  a medium pan, heat 1 tablespoon of vegetable oil over medium heat. Add 1  tablespoon of minced garlic, the ginger, and shallot and sauté until  lightly aromatic, 1-2 minutes. Add the ground pork to the pan and cook,  undisturbed, until golden brown, 3-5 minutes.  
+Meanwhile,  in a small pan, heat another tablespoon of vegetable oil over  medium-low heat. Add the soy bean paste and sweet bean sauce and cook  until caramelized, 1-2 minutes, being careful not to burn. 
+Add  the caramelized bean paste mixture to the ground pork mixture and stir  to combine. Add the soy sauce and cook for another 30 seconds to  incorporate. Add the cornstarch slurry, reduce the heat to low, and  simmer for about 15 minutes, adding a few tablespoons of water at a time  as needed to keep the mixture at a simmer. 
+Meanwhile,  heat a small pan over low heat. Add the remaining  teaspoon of  vegetable oil, then pour in the egg and tilt the pan to spread in a thin  layer. Cook until the top is just set, then remove the egg crepe from  the pan. Let cool, then thinly slice. 
+Cook the noodles according to the package instructions, then drain.  
+Place  the cooked noodles in a serving bowl and top with the ground pork  mixture. Garnish with the egg crepe strips, cucumber, cilantro, and  remaining teaspoon of minced garlic. 
+Enjoy! 
+
+** Sesame Beef :Beef:Wok:
+[[https://www.allrecipes.com/recipe/14679/sesame-beef/][Link]]
+Ingredients: 
+- 1 pound round steak 
+- 4 tablespoons soy sauce 
+- 4 tablespoons white sugar 
+- 4 tablespoons vegetable oil 
+- 2 cloves garlic, minced 
+- 2 green onions, chopped 
+- 2 tablespoons sesame seeds 
+ 
+Directions: 
+ 
+1. Mix soy sauce, sugar, oil, garlic, and onions in a large bowl. Set aside. 
+2. Cut steak into strips and add to bowl. Cover and refrigerate overnight, or at least 30 minutes. 
+3. Cook in wok or frying pan until brown, about 5 minutes. Add sesame seeds and cook for additional 2 minutes. 
+
+** Burritos :Beef:Template::Mexican:
+ESSENTIAL INGREDIENTS 
+- Rundergehakt 700-800 gram 
+- Mais 
+- Paprika 
+- Onions 
+- Wrap 
+- Cheese 
+- Creme fraiche 
+ 
+POSSIBLE INGREDIENTS 
+- Chili Pepers 
+- Knoflook 
+- Tomaat 
+- Champignons 
+- Sla 
+ 
+Spices: 
+- Taco
+
+** Easy Mexican Casserole :Mexican:Beef:
+[[https://www.allrecipes.com/recipe/20680/easy-mexican-casserole/][Link]]
+ 
+- 1 pound lean ground beef 
+- 2 cups salsa 
+- 1 (16 ounce) can chili beans, drained 
+- 3 cups tortilla chips, crushed 
+- 2 cups sour cream 
+- 1 (2 ounce) can sliced black olives, drained 
+- 1/2 cup chopped green onion 
+- 1/2 cup chopped fresh tomato 
+- 2 cups shredded Cheddar cheese 
+ 
+1. Preheat oven to 350 degrees F (175 degrees C). 
+2. In  a large skillet over medium-high heat, cook ground beef until no longer  pink. Stir in salsa, reduce heat, and simmer 20 minutes, or until  liquid is absorbed. Stir in beans, and heat through. 
+3. Spray  a 9x13 baking dish with cooking spray. Spread crushed tortilla chips in  dish, and then spoon beef mixture over chips. Spread sour cream over  beef, and sprinkle olives, green onion, and tomato over the sour cream.  Top with Cheddar cheese. 
+4. Bake in preheated oven for 30 minutes, or until hot and bubbly. 
+
+** Black pepper beef :Beef:Wok:
+[[https://schoolofwok.co.uk/tips-and-recipes/black-pepper-beef][Link]]
+
+** Wraps :Lunch:Snacks:
+*** Kipfilet variant 
+- kipfilet (of gerookte kipfilet) 
+- paar plakjes komkommer 
+- halve bosui 
+- snufje peper 
+
+*** Groenten wrap 
+- 1/4 rode paprika 
+- handje rucola 
+- halve bosui 
+- snufje peper 
+- snufje chilipoeder 
+ 
+*** Wrap met kip, sla en komkommer 
+- 1 tl roomkaas met kruiden 
+- handje ijsbergsla/eikenblad melange 
+- plakje kipfilet (of gerookte kip)
+- paar plakjes komkommer 
+- snufje peper 
+
+** Stokbrood met pittig gehakt :Bread:Beef:
+[[https://www.lekkerensimpel.com/pittig-stokbrood-met-gehakt/][Link]]
+
+** Quesedillas :Vegan:Mexican:Cheese:
+Ingredients: 
+- Wraps 
+- Cheese 
+- Olive oil or Butter
+ 
+Optional: 
+- Bacon stukjes 
+- Avocado 
+- Sla 
+- Lente uien 
+- Tomatoes Diced 
+- Prosciutto  
+
+** Sweet and sour chicken :Chicken:Chinese:Frying:
+[[https://www.youtube.com/watch?v=RUDPussbU04][Link]]
+
+** Spicy Thai Basil chicken :Chicken:Thai:
+[[https://foodwishes.blogspot.com/2017/04/spicy-thai-basil-chicken-my-pad-krapow.html][Link]] 
+ 
+Ingredients: 
+- 1 pound freshly chopped chicken thighs 
+- 1/4 cup sliced shallots 
+- 4 cloves garlic, minced 
+- 2 tablespoons minced Thai chilies, Serrano, or other hot pepper 
+- 1/3 cup chicken broth 
+- 1 tablespoon soy sauce, or as needed 
+- 1 tablespoon oyster sauce 
+- 2 teaspoons fish sauce 
+- 1 teaspoon white sugar 
+- 1 teaspoon brown sugar 
+- 1 bunch basil leaves, sliced very thin with a sharp knife (about a cup once sliced) 
+** Garlic sauce
+For the love of god don't put any lemon in it
+Jesus fucking christ that's awful
+[[https://fussfreeflavours.com/easy-kebab-shop-garlic-sauce-recipe/][Link]]
+
+| Amount | Ingredient   |
+|--------+--------------|
+| 2 tbsp | mayonnaise   |
+| 2 tbsp | yoghurt      |
+| 1      | clove garlic |
+|--------+--------------|
+
+1. Boil a kettle of water. Slice the garlic thinly, and transfer to a sieve. Pour the kettle of boiled water over the garlic
+2. With the back of a knife, crush the garlic with a pinch of salt into a paste.
+3. Mix garlic, mayonnaise and yoghurt. Season to taste with salt and pepper.
