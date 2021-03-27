@@ -1,40 +1,75 @@
 #+TITLE: Cooking
-#+DESCRIPTION: This is my cooking guide looking to replace this part on evernote with org.
+#+DESCRIPTION: This is my cooking guide here I place recipes I have found that look interesting and those I've tried. I also make templates for certain styles of food to allow for more creativity.
 #+AUTHOR: Tobin Stultiens
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: tags:nil
 
 * Recipes
-** Pickled Onions :Pickled:
-This is a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
-
 ** Chicken Enchiladas :Chicken:Mexican:
-[[https://www.lekkerensimpel.com/enchiladas-met-kip/][The boring one]] \\
-[[https://www.allrecipes.com/recipe/8691/chicken-enchiladas-i][Spicy one]] \\
+- 600 - 700 gram chicken
+- 1 onion, chopped
+- creme fraiche
+- 1 cup shredded cheese
+- 1 tablespoon dried parsley
+- 1/2 teaspoon dried oregano
+- 1/2 teaspoon ground black pepper
+- 1/2 teaspoon salt (Optional)
+- 1 (15 ounce) can tomato sauce
+- 1/2 cup water
+- 1 tablespoon chili powder
+- 1/3 cup chopped green bell pepper
+- 1 clove garlic, minced
+- 8 (10 inch) flour tortillas
+- 1 (12 ounce) jar taco sauce
+- 3/4 cup shredded cheese
 Maybe watch out with the chili powder on this one.
 
-** Rice :Rice:
-This is the formule for how to make rice.
-The only requirement is that you wash your rice before following this.
-|---------------+---------|
-| Rijst         | Water   |
-|---------------+---------|
-| Sushi Rijst   | 1 + 1/3 |
-|---------------+---------|
-| Normale Rijst | 1 + 1/2 |
-|---------------+---------|
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. In a medium, non-stick skillet over medium heat, cook chicken until no longer pink and juices run clear. Drain excess fat. Cube the chicken and return it to the skillet. Add the onion, sour cream, Cheddar cheese, parsley, oregano and ground black pepper. Heat until cheese melts. Stir in salt, tomato sauce, water, chili powder, green pepper and garlic.
+3. Roll even amounts of the mixture in the tortillas. Arrange in a 9x13 inch baking dish. Cover with taco sauce and 3/4 cup Cheddar cheese. Bake uncovered in the preheated oven 20 minutes. Cool 10 minutes before serving.
 
 ** Korean Fried Chicken :Chicken:Korean:Frying:
-[[https://sorted.club/recipe/korean-fried-sweet-and-sour-chicken-with-sesame-sticky-rice/][Link of idea]]
-[[https://dinnerthendessert.com/korean-fried-chicken/][Link of the sauce]]
+- 2 pounds boneless skinless chicken thighs, cut into 1 inch pieces
+- 1/4 cup flour
+- 2 eggs
+- 1/2 cup cornstarch
+- oil for frying
+- 1/3 cup Korean gojuchang red pepper paste
+- 3 tablespoons rice vinegar
+- 1/4 cup brown sugar
+- 2 tablespoons soy sauce
+- 1 teaspoon sesame seeds for garnish
+
+- Toss the chicken in the flour, then dredge into the egg and finally coat in the cornstarch.
+- In a large glass bowl add the gojuchang, vinegar, brown sugar and soy sauce and whisk until well combined.
+- Heat up a heavy bottomed pan with 3 inches of oil to 375 degrees.
+- Fry the chicken for 3-4 minutes or until browned and crispy.
+- Drain the fried chicken and add to the bowl with the sauce.
+- Toss to combine, garnish with sesame seeds and serve immediately.
 
 ** Spicy Sesame Rice Bowl :Rice_Bowl:Beef:
-[[https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/][Link]]
+[[https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/][Link]]\\
+Ingredients:
+- 1/3 c. Korean red pepper paste (gochujang)
+- 2 tbsp. toasted sesame oil
+- 1 tbsp. soy sauce
+- 1 tbsp. sugar
+- 3 cloves garlic, crushed with press
+- 1 lb. beef top round, cut against grain into very thin 2"-long slices
+- 12 oz. medium shiitake mushrooms, stemmed
+- 1 seedless (English) cucumber, thinly sliced
+- 1/4 c. rice vinegar
+- 5 oz. baby spinach
+- 6 c. cooked white rice, hot
+- Thinly sliced green onions, shredded carrots, kimchi and sesame seeds for serving
 
-Heb Korean red pepper paste vervangen door sambal oelek met wat maizena om het te verdikken 
- 
-Dit is heel goed gelukt 
- 
+Directions:
+1. In large bowl, whisk red pepper paste, sesame oil, soy sauce, sugar, garlic and 1/4 cup of water until smooth; set aside 1/2 cup of sauce. To bowl with remaining sauce, add beef and pinch salt, tossing to coat. Let stand at least 10 minutes or refrigerate up to overnight.
+2. Add beef to pressure-cooker pot along with mushrooms. Cover, lock and bring up to pressure on high. Reduce heat to medium-low, maintaining pressure. Cook 10 minutes.
+3. While beef cooks, toss cucumber with vinegar and 1/4 teaspoon of salt; set aside.
+4. Release pressure by using quick-release function. Divide spinach among 6 serving bowls; top each with 1 cup of rice. Drain cucumbers. Top rice with beef, mushrooms, cucumbers, green onions, carrots, kimchi and sesame seeds; drizzle with reserved sauce.
+Comments:\\
+Korean red pepper paste is te vervangen met sambal oelek al moet het met maizena verdikt worden. \\
 Kogelbiefstuk is hiervoor aan te raden.
 
 ** Sesame Beef :Beef:Wok:
@@ -73,7 +108,38 @@ Directions: 
 4. Bake in preheated oven for 30 minutes, or until hot and bubbly. 
 
 ** Black pepper beef :Beef:Wok:
-[[https://schoolofwok.co.uk/tips-and-recipes/black-pepper-beef][Link]]
+[[https://schoolofwok.co.uk/tips-and-recipes/black-pepper-beef][Link]]\\
+Ingredients:
+- 350g steak, sliced into strips against the grain
+- 1 onion, julienned
+- 1/2 red pepper, julienned
+- 1 spring onion
+- 1/4 of a thumb size piece of ginger
+
+THE MARINADE
+- 1 teaspoon cornflour (cornstarch)
+- 1 teaspoon light soy sauce
+- 1 teaspoon pure sesame oil
+
+THE SAUCE
+- 1/4 teaspoon salt
+- 1/2 teaspoon sugar
+- 1/2 teaspoon crushed black pepper
+- 1 tablespoon Lee Kum Kee black pepper sauce
+- 50 ml chicken stock
+- 1 tablespoon light soy sauce
+- 1 tablespoon oyster sauce
+- 2 teaspoons Shaoxing rice wine
+
+Preparation:
+1. Remove any rind or fat from the steak, then slice thinly. Tenderize by bashing them with a cleaver or meat hammer, creating a large surface area for quick cooking.
+2. Mix all the marinade ingredients with the meat. Massage the marinade into the meat, marinade for 30 minutes, or overnight for more flavor.
+3. Mix the sauce ingredients together in a small bowl.
+Cooking:
+1. Heat 2 tablespoons vegetable oil in a wok to high heat. Sear your meat for a couple of minutes on each side and set aside.
+2. Add oil to the wok and when smoking hot, add the ginger and spring onions, once they have slightly softened, add the pepper and onions.
+3. Maintaining the high heat, pour in your sauce, return the meat to the wok and continue to stir-fry for an additional 30 seconds.
+4. Serve and enjoy.
 
 ** Wraps :Lunch:Snacks:
 *** Kipfilet variant 
@@ -101,6 +167,48 @@ Directions: 
 
 ** Sweet and sour chicken :Chicken:Chinese:Frying:
 [[https://www.youtube.com/watch?v=RUDPussbU04][Link]]
+
+Ingredients:\\
+
+For marination:
+- Salt- 1/2 tsp
+- Pepper powder- 1/2 tsp
+
+For the Batter:
+- Maida/All Purpose Flour- 3 tbsp measure
+- Cornflour- 2 tsp measure
+- Baking powder- 1/4 tsp
+- Salt- 1/4 tsp
+- Egg white- of 1 egg
+- Chilled Water- 4 tbsp
+
+Sweet & Sour Sauce:
+- Tomato Ketchup- 4 tbsp
+- Sugar- 3 tbsp
+- White Vinegar- 3 tbsp
+- Dark Soy Sauce- 3/4 tsp
+
+Other Ingredients:
+- Green bell peppers/capsicum, cubed- 1 cup (around 70 gms)
+- Red bell peppers/capsicum, cubed- 1 cup ( around 70 gms)
+- Oil- 1/2 tbsp oil + oil for deep frying the chicken
+
+Preparation:
+1. Wash and leave the chicken pieces/fillets to drain.
+2. Pat dry if required and cut them into bite sized pieces. You could use a mix of boneless dark and white meat, makes the chicken pieces moist and juicy.
+3. Marinate with salt and pepper powder and set aside for 20 mins.
+4. Add all the ingredients of the sweet and sour sauce in a small bowl and give a mix. Set aside for use later.
+5. Prepare the batter/mix as per ingredients specified above.
+
+Process:
+1. Heat oil for deep frying in a skillet or wok or kadai.
+2. Once the oil is medium hot, dip the marinated chicken pieces in the batter and drop them in oil side by side to not crowd the pan.
+3. Fry the chicken pieces on medium heat for 1 minute without turning them.
+4. After that keep turning & frying the pieces for another 4-5 mins till golden in colour. Take it out & repeat the same with the next batch.
+5. Now take a wok or kadai and add 1/2 tbsp oil.
+6. Keep it on high heat and add the cubed peppers. Stir fry on high heat for 1 minute and then add the sweet & sour sauce. Mix and continue to fry on high heat for another minute till the sauce is cooked and thick.
+7. Now add the fried chicken pieces, give a mix and continue to stir fry to coat the chicken pieces well with the sauce. This should take around 2 mins.
+8. Serve with noodles or fried rice.
 
 ** Spicy Thai Basil chicken :Chicken:Thai:
 [[https://foodwishes.blogspot.com/2017/04/spicy-thai-basil-chicken-my-pad-krapow.html][Link]] 
@@ -179,7 +287,36 @@ Optional: 
 - Thinly sliced chorizo
 
 ** How to pimp my noodles :Noodles:
-This is a simple guide on how to pimp your instan [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodles]].
+This is a simple guide on how to pimp your instant [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodles]].
+
+Ingredients:
+- Vegetables
+- 1 clove Garlic
+- 1/2 tsp grated ginger
+- 250 ml broth
+- 250 ml water
+- 1 package instant ramen
+- 1 egg
+- 1 green onion
+
+Steps:
+1. Add the oil, garlic, and ginger to a small sauce pot and sauté over medium for about one minute.
+2. Add your vegetable of choice and saute for about a minute.
+3. Add the broth and water, and bring to a boil.
+4. Now make your broth your own add sauces to the broth and taste whether this is what you like. My personal favorite thing to add is sriracha and chicken bouillon as broth.
+5. Crack the egg into the broth for about a minute, then add your instant noodles for 3 minutes.
+6. Transfer the soup to a bowl, then top it with sliced green onion.
+
+** Rice :Rice:
+This is the formule for how to make rice.
+The only requirement is that you wash your rice before following this.
+|---------------+---------|
+| Rijst         | Water   |
+|---------------+---------|
+| Sushi Rijst   | 1 + 1/3 |
+|---------------+---------|
+| Normale Rijst | 1 + 1/2 |
+|---------------+---------|
 
 * Sauces
 ** Salsa :Mexican:Sauce:
@@ -256,7 +393,7 @@ Jesus fucking christ that's awful
 ** Cheese dip :Cheese:Dip:
 [[https://www.youtube.com/watch?v=PTbdvND_YLQ][Sodium Citrate]]
 This looks like a better way to make a dip.
-* Bread
+* Baking
 ** Focaccia Bread :Bread:
 This [[https://www.youtube.com/watch?v=HTD-z1wd0tw&t=0s][video]] seemed like an easy way to make this bread
 
@@ -316,3 +453,7 @@ This [[https://youtu.be/YtkyC2Ctz6E][recipe]] looked interesting.
 This just looks [[https://www.youtube.com/watch?v=mh2AXh1eRmE][good]].
 ** PK Chicken Karahi :Chicken:
 [[https://www.youtube.com/watch?v=4PMmH2-5wJM][link]]
+
+* Fermenting
+** Pickled Onions :Pickled:
+This is a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
