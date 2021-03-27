@@ -16,6 +16,7 @@ jobs:
         id: prep
         run: |
           # Generate html file
+          sudo apt-get install emacs
           emacs cooking.org --batch -f org-html-export-to-html --kill
           DOCKER_IMAGE=${{ secrets.DOCKER_USERNAME }}/${GITHUB_REPOSITORY#*/}
           VERSION=latest
