@@ -225,6 +225,13 @@ Ingredients: 
 - 1 teaspoon white sugar 
 - 1 teaspoon brown sugar 
 - 1 bunch basil leaves, sliced very thin with a sharp knife (about a cup once sliced) 
+** Ala Mario
+[[https://www.ah.nl/producten/product/wi134027/ah-pizzadeeg-tomatensaus][Deeg]]
+[[https://www.ah.nl/producten/product/wi130191/ah-gerookte-zalmfilet][Zalm]]
+1. Put some pepper and salt on this alongside onion rings.
+2. Then cover this with a generous amount of cheese.
+Enjoy!
+[[./images/ala_mario.jpg]]
 
 * Templates
 ** Stir Fry :Template:Wok:
