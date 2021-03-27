@@ -231,7 +231,8 @@ Ingredients: 
 1. Put some pepper and salt on this alongside onion rings.
 2. Then cover this with a generous amount of cheese.
 Enjoy!
-[[./images/ala_mario.jpg]]
+[[file:./images/ala_mario.jpg]]
+[[file:./images/ala_mario2.jpg]]
 
 * Templates
 ** Stir Fry :Template:Wok:
