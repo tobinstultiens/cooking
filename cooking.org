@@ -237,6 +237,8 @@ Enjoy!
 ** Parma Ham sandwich
 [[https://www.lavenderandlovage.com/2019/07/italian-sub-sandwich-with-prosciutto-di-parma-ham.html][Link]]
 I would have enjoyed it more with rucola
+** Chicken Gyros
+[[https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/][Link]]
 
 * Templates
 ** Stir Fry :Template:Wok:
@@ -443,6 +445,8 @@ Making them round is really hard a [[https://www.amazon.com/Victoria-TOR-003-FBA
 |     22 | 515.625 g     | 6.875 g  | 6.875 g       | 110 ml                 | 330 ml     |
 |--------+---------------+----------+---------------+------------------------+------------|
 #+TBLFM: @3=@-1/@2$1::@4$2..@4$6=@-1*$1
+** Flatbread
+[[https://www.recipetineats.com/easy-soft-flatbread-yeast/][Link]]
 * Soup
 ** Miso Soup :Soup:Japanese:
 This [[https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/][recipe]] was alright although quite fishy might need some adjustments.
@@ -474,7 +478,6 @@ This [[https://www.youtube.com/watch?v=eq8vuOSnV68][video]] seemed interesting a
 [[https://youtu.be/NM4ArR-qbHQ][Link]] \\
 1-Hour Noodles \\
 Servings: 2 \\
-\\ 
 Ingredients 
 - 2 tablespoons plus 1 teaspoon vegetable oil, divided 
 - 1 tablespoon plus 1 teaspoon minced garlic, divided 
