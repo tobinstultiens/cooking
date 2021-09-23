@@ -346,6 +346,9 @@ How you do this is by doing the following:
 4. Add your rice and fry them on low heat for 30 seconds.
 5. Add water and let it cook on the lowest heat for 10 minutes.
 6. Last of all let it steam for 5 minutes.
+** Ramen
+I would recommend looking into this book [[./pdf/The Ramen_Lord Book of Ramen.pdf]]
+Also [[https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-shoyu-ramen][this]] has some interesting ideas.
 
 * Sauces
 ** Salsa :Mexican:Sauce:
