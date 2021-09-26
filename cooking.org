@@ -347,7 +347,7 @@ How you do this is by doing the following:
 5. Add water and let it cook on the lowest heat for 10 minutes.
 6. Last of all let it steam for 5 minutes.
 ** Ramen
-I would recommend looking into this book [[./pdf/The Ramen_Lord Book of Ramen.pdf]]
+I would recommend looking into this book [[./pdf/The Ramen_Lord Book of Ramen.pdf][The Ramen Lord Book of Ramen]]
 Also [[https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-shoyu-ramen][this]] has some interesting ideas.
 
 * Sauces
@@ -435,7 +435,20 @@ Ingredients:
 - Sweet relish (chopped pickles)
 ** Creamy Buffalo :Sauce:
 [[https://www.ethanchlebowski.com/cooking-techniques-recipes/creamy-buffalo-sauce][Link for sauce]]
-This is quite a nice sauce I've tried it with sriracha sauce as hot sauce
+This is quite a nice sauce I've tried it with sriracha sauce as hot sauce.
+The only thing I noticed is to watch out with what type of sriracha since some of them are thicker.
+
+- 1 part hot sauce
+- half part butter
+- half part yogurt
+- black pepper
+- garlic powder
+- lemon zest
+
+- Add the butter to a pan over medium heat. When the butter has started to bubble, remove from heat to let the butter and pan cool, add the hot sauce and stir continuously to form an emulsified sauce between the two.
+- Once cooled, add the plain yogurt and stir to combine. Follow that with a couple cranks of black pepper, sprinkle of garlic powder, lemon zest, and a pinch of msg. The msg will mellow out the spiciness of the sauce.
+- Pour into a squeeze bottle and store in the fridge. Use as a dipping sauce, a marinade for chicken, or as a salad dressing. You've got options, baby.
+
 
 [[https://www.delish.com/cooking/recipe-ideas/recipes/a51133/classic-buffalo-wings-recipe/][With wings]]
 
