@@ -1,4 +1,6 @@
 #+TITLE: Ideas
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: \n:t
 
 * Ideas
 ** Focaccia Sandwich and Pizza :Bread:Pizza:Sandwich:

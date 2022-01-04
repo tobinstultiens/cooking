@@ -1,4 +1,6 @@
 #+TITLE: Baking
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: \n:t
 
 * Baking
 ** Focaccia Bread :Bread:
@@ -19,4 +21,43 @@ Making them round is really hard a [[https://www.amazon.com/Victoria-TOR-003-FBA
 ** Flatbread
 [[https://www.recipetineats.com/easy-soft-flatbread-yeast/][Link]]
 ** Cheesy Garlic Bread
+[2 pieces of 22cmx17cm (serves 2-4 people)]
+✤ Dough
+  - 200g Bread flour
+  - 5g(0.5tbsp) Instant dry yeast
+  - 8g(1tbsp) Sugar
+  - 4g(0.5tbsp) Salt
+  - 15g(2tbsp) Olive oil (Cooking oil can be used)
+  - 120ml Warm water
+
+✤ Cream Cheese Sauce
+  - 10g(0.5tbsp) Minced garlic
+  - 20g(2tbsp) Melted unsalted butter
+  - 30g(1big tbsp) cream cheese
+
+✤ Toppings
+  - 280g Mozzarella cheese
+  - Parmesan Cheese
+  - Oregano (can be omitted) Parsley can be used
+
+✤ Dipping sauce
+  - Honey
+  - Tomato Sauce
+
+1. Combine warm water with sugar and dry yeast.
+2. Add flour and salt and start kneading.
+3. Knead dough until it forms a nice not so sticky dough ball.
+4. Add olive oil to the dough and knead it into the dough.
+5. Let rest until it doubles/triples in size (around 1 hour in a warm environment).
+6. Start preheating the oven at 210℃.
+7. Create cream cheese sauce by combining everything in the cream cheese sauce list.
+8. Split the dough into 2 and roll the dough into a thin piece.
+9. Top with cream cheese mixture and mozzarella.
+10. Place into the oven for 8 - 10 minutes.
+
 [[https://www.youtube.com/watch?v=8LPVOjjSgDE][Link]]
+** Onion bread
+1. use the same dough recipe as [[*Cheesy Garlic Bread][Cheesy Garlic Bread]].
+2. Preheat the oven at 210℃.
+3. Then top it with yellow onion and grated cheese.
+4. Bake in the oven for 8 - 10 minutes at 210℃.

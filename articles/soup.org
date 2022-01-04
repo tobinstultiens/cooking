@@ -1,4 +1,6 @@
 #+TITLE: Soup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: \n:t
 
 * Soup
 ** Miso Soup :Soup:Japanese:
