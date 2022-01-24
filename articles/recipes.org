@@ -4,6 +4,7 @@
 
 * Recipes
 ** Chicken Enchiladas :Chicken:Mexican:
+Ingredients:
 - 600 - 700 gram chicken
 - 1 onion, chopped
 - creme fraiche
@@ -22,12 +23,14 @@
 - 3/4 cup shredded cheese
 Maybe watch out with the chili powder on this one.
 
-1. Preheat oven to 350 degrees F (175 degrees C).
-2. In a medium, non-stick skillet over medium heat, cook chicken until no longer pink and juices run clear. Drain excess fat. Cube the chicken and return it to the skillet. Add the onion, sour cream, Cheddar cheese, parsley, oregano and ground black pepper. Heat until cheese melts. Stir in salt, tomato sauce, water, chili powder, green pepper and garlic.
-3. Roll even amounts of the mixture in the tortillas. Arrange in a 9x13 inch baking dish. Cover with taco sauce and 3/4 cup Cheddar cheese. Bake uncovered in the preheated oven 20 minutes. Cool 10 minutes before serving.
-4. Meng in een schaaltje de crème fraîche met de kurkuma, dille, bieslook, peterselie, 2 theelepels uienpoeder, peper en zout allemaal 1 theelepel voor een heerlijk dipsausje.
+Steps:
+1) Preheat oven to 350 degrees F (175 degrees C).
+2) In a medium, non-stick skillet over medium heat, cook chicken until no longer pink and juices run clear. Drain excess fat. Cube the chicken and return it to the skillet. Add the onion, sour cream, Cheddar cheese, parsley, oregano and ground black pepper. Heat until cheese melts. Stir in salt, tomato sauce, water, chili powder, green pepper and garlic.
+3) Roll even amounts of the mixture in the tortillas. Arrange in a 9x13 inch baking dish. Cover with taco sauce and 3/4 cup Cheddar cheese. Bake uncovered in the preheated oven 20 minutes. Cool 10 minutes before serving.
+4) Meng in een schaaltje de crème fraîche met de kurkuma, dille, bieslook, peterselie, 2 theelepels uienpoeder, peper en zout allemaal 1 theelepel voor een heerlijk dipsausje.
 
 ** Korean Fried Chicken :Chicken:Korean:Frying:
+Ingredients:
 - 2 pounds boneless skinless chicken thighs, cut into 1 inch pieces
 - 1/4 cup flour
 - 2 eggs
@@ -39,12 +42,13 @@ Maybe watch out with the chili powder on this one.
 - 2 tablespoons soy sauce
 - 1 teaspoon sesame seeds for garnish
 
-- Toss the chicken in the flour, then dredge into the egg and finally coat in the cornstarch.
-- In a large glass bowl add the gojuchang, vinegar, brown sugar and soy sauce and whisk until well combined.
-- Heat up a heavy bottomed pan with 3 inches of oil to 375 degrees.
-- Fry the chicken for 3-4 minutes or until browned and crispy.
-- Drain the fried chicken and add to the bowl with the sauce.
-- Toss to combine, garnish with sesame seeds and serve immediately.
+Steps:
+1) Toss the chicken in the flour, then dredge into the egg and finally coat in the cornstarch.
+2) In a large glass bowl add the gojuchang, vinegar, brown sugar and soy sauce and whisk until well combined.
+3) Heat up a heavy bottomed pan with 3 inches of oil to 375 degrees.
+4) Fry the chicken for 3-4 minutes or until browned and crispy.
+5) Drain the fried chicken and add to the bowl with the sauce.
+6) Toss to combine, garnish with sesame seeds and serve immediately.
 
 ** Spicy Sesame Rice Bowl :Rice_Bowl:Beef:
 [[https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/][Link]]\\
@@ -63,13 +67,13 @@ Ingredients:
 - Thinly sliced green onions, shredded carrots, kimchi and sesame seeds for serving
 
 Directions:
-1. In large bowl, whisk red pepper paste, sesame oil, soy sauce, sugar, garlic and 1/4 cup of water until smooth; set aside 1/2 cup of sauce. To bowl with remaining sauce, add beef and pinch salt, tossing to coat. Let stand at least 10 minutes or refrigerate up to overnight.
-2. Add beef to pressure-cooker pot along with mushrooms. Cover, lock and bring up to pressure on high. Reduce heat to medium-low, maintaining pressure. Cook 10 minutes.
-3. While beef cooks, toss cucumber with vinegar and 1/4 teaspoon of salt; set aside.
-4. Release pressure by using quick-release function. Divide spinach among 6 serving bowls; top each with 1 cup of rice. Drain cucumbers. Top rice with beef, mushrooms, cucumbers, green onions, carrots, kimchi and sesame seeds; drizzle with reserved sauce.
+1) In large bowl, whisk red pepper paste, sesame oil, soy sauce, sugar, garlic and 1/4 cup of water until smooth; set aside 1/2 cup of sauce. To bowl with remaining sauce, add beef and pinch salt, tossing to coat. Let stand at least 10 minutes or refrigerate up to overnight.
+2) Add beef to pressure-cooker pot along with mushrooms. Cover, lock and bring up to pressure on high. Reduce heat to medium-low, maintaining pressure. Cook 10 minutes.
+3) While beef cooks, toss cucumber with vinegar and 1/4 teaspoon of salt; set aside.
+4) Release pressure by using quick-release function. Divide spinach among 6 serving bowls; top each with 1 cup of rice. Drain cucumbers. Top rice with beef, mushrooms, cucumbers, green onions, carrots, kimchi and sesame seeds; drizzle with reserved sauce.
 Comments:\\
-Korean red pepper paste is te vervangen met sambal oelek al moet het met maizena verdikt worden. \\
-Kogelbiefstuk is hiervoor aan te raden.
+Korean red pepper paste is replacable with sambal oelek but you need to thicken it. \\
+Kogelbiefstuk works for this.
 
 ** Sesame Beef :Beef:Wok:
 [[https://www.allrecipes.com/recipe/14679/sesame-beef/][Link]]
@@ -84,13 +88,13 @@ Ingredients: 
  
 Directions: 
  
-1. Mix soy sauce, sugar, oil, garlic, and onions in a large bowl. Set aside. 
-2. Cut steak into strips and add to bowl. Cover and refrigerate overnight, or at least 30 minutes. 
-3. Cook in wok or frying pan until brown, about 5 minutes. Add sesame seeds and cook for additional 2 minutes. 
+1) Mix soy sauce, sugar, oil, garlic, and onions in a large bowl. Set aside. 
+2) Cut steak into strips and add to bowl. Cover and refrigerate overnight, or at least 30 minutes. 
+3) Cook in wok or frying pan until brown, about 5 minutes. Add sesame seeds and cook for additional 2 minutes. 
 
 ** Easy Mexican Casserole :Mexican:Beef:
-[[https://www.allrecipes.com/recipe/20680/easy-mexican-casserole/][Link]]
- 
+[[https://www.allrecipes.com/recipe/20680/easy-mexican-casserole/][Link]]\\
+Ingredients: 
 - 1 pound lean ground beef 
 - 2 cups salsa 
 - 1 (16 ounce) can chili beans, drained 
@@ -101,10 +105,11 @@ Directions: 
 - 1/2 cup chopped fresh tomato 
 - 2 cups shredded Cheddar cheese 
  
-1. Preheat oven to 350 degrees F (175 degrees C). 
-2. In  a large skillet over medium-high heat, cook ground beef until no longer  pink. Stir in salsa, reduce heat, and simmer 20 minutes, or until  liquid is absorbed. Stir in beans, and heat through. 
-3. Spray  a 9x13 baking dish with cooking spray. Spread crushed tortilla chips in  dish, and then spoon beef mixture over chips. Spread sour cream over  beef, and sprinkle olives, green onion, and tomato over the sour cream.  Top with Cheddar cheese. 
-4. Bake in preheated oven for 30 minutes, or until hot and bubbly. 
+Steps:
+1) Preheat oven to 350 degrees F (175 degrees C). 
+2) In  a large skillet over medium-high heat, cook ground beef until no longer  pink. Stir in salsa, reduce heat, and simmer 20 minutes, or until  liquid is absorbed. Stir in beans, and heat through. 
+3) Spray  a 9x13 baking dish with cooking spray. Spread crushed tortilla chips in  dish, and then spoon beef mixture over chips. Spread sour cream over  beef, and sprinkle olives, green onion, and tomato over the sour cream.  Top with Cheddar cheese. 
+4) Bake in preheated oven for 30 minutes, or until hot and bubbly. 
 
 ** Black pepper beef :Beef:Wok:
 [[https://schoolofwok.co.uk/tips-and-recipes/black-pepper-beef][Link]]\\
@@ -131,14 +136,14 @@ THE SAUCE
 - 2 teaspoons Shaoxing rice wine
 
 Preparation:
-1. Remove any rind or fat from the steak, then slice thinly. Tenderize by bashing them with a cleaver or meat hammer, creating a large surface area for quick cooking.
-2. Mix all the marinade ingredients with the meat. Massage the marinade into the meat, marinade for 30 minutes, or overnight for more flavor.
-3. Mix the sauce ingredients together in a small bowl.
+1) Remove any rind or fat from the steak, then slice thinly. Tenderize by bashing them with a cleaver or meat hammer, creating a large surface area for quick cooking.
+2) Mix all the marinade ingredients with the meat. Massage the marinade into the meat, marinade for 30 minutes, or overnight for more flavor.
+3) Mix the sauce ingredients together in a small bowl.
 Cooking:
-1. Heat 2 tablespoons vegetable oil in a wok to high heat. Sear your meat for a couple of minutes on each side and set aside.
-2. Add oil to the wok and when smoking hot, add the ginger and spring onions, once they have slightly softened, add the pepper and onions.
-3. Maintaining the high heat, pour in your sauce, return the meat to the wok and continue to stir-fry for an additional 30 seconds.
-4. Serve and enjoy.
+1) Heat 2 tablespoons vegetable oil in a wok to high heat. Sear your meat for a couple of minutes on each side and set aside.
+2) Add oil to the wok and when smoking hot, add the ginger and spring onions, once they have slightly softened, add the pepper and onions.
+3) Maintaining the high heat, pour in your sauce, return the meat to the wok and continue to stir-fry for an additional 30 seconds.
+4) Serve and enjoy.
 
 ** Wraps :Lunch:Snacks:
 *** Kipfilet variant 
@@ -163,6 +168,23 @@ Cooking:
 
 ** Stokbrood met pittig gehakt :Bread:Beef:
 [[https://www.lekkerensimpel.com/pittig-stokbrood-met-gehakt/][Link]]
+
+Ingredients:
+- 1 stokbrood
+- 150 gr gehakt
+- 1 ei
+- 2 el paneermeel
+- 2 el chilisaus
+- 2 tenen knoflook
+- halve rode peper
+- 1 rode ui
+- halve paprika
+- 2 tl paprikapoeder
+- handje geraspte kaas
+- snufje zout en peper
+
+Steps:
+1) Combine everything and throw it in a 200℃ oven
 
 ** Sweet and sour chicken :Chicken:Chinese:Frying:
 [[https://www.youtube.com/watch?v=RUDPussbU04][Link]]
@@ -227,23 +249,130 @@ Ingredients: 
 ** Ala Mario
 [[https://www.ah.nl/producten/product/wi134027/ah-pizzadeeg-tomatensaus][Deeg]]
 [[https://www.ah.nl/producten/product/wi130191/ah-gerookte-zalmfilet][Zalm]]
-1. Put some pepper and salt on this alongside onion rings.
-2. Then cover this with a generous amount of cheese.
+1) Put some pepper and salt on this alongside onion rings.
+2) Then cover this with a generous amount of cheese.
 Enjoy!
 [[file:./images/ala_mario.jpg]]
 [[file:./images/ala_mario2.jpg]]
 ** Parma Ham sandwich
-[[https://www.lavenderandlovage.com/2019/07/italian-sub-sandwich-with-prosciutto-di-parma-ham.html][Link]]
+[[https://www.lavenderandlovage.com/2019/07/italian-sub-sandwich-with-prosciutto-di-parma-ham.html][Link]]\\
+Ingredients:
+- 1 small hot-dog or submarine roll, per person (about 5"/12.5cm long)
+- A bit of Pesto at the bottom
+- Dried oregano
+- Fresh lettuce leaves (of your choice)
+- 1 small vine-ripened tomato per person (thinly sliced)
+- 1/4 red onion, per person (very thinly sliced)
+- 25g Parmigiano-Reggiano cheese per person (shaved into thin slices with a vegetable peeler)
+- 2 slices of Prosciutto di Parma per person
+- Sea salt and ground black pepper, to taste
+
 I would have enjoyed it more with rucola
 ** Chicken Gyros
-[[https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/][Link]]
+[[https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/][Link]]\\
+Ingredients:\\
+Marinade:
+- 2 lb / 1 kg chicken thigh fillets
+- 3 large garlic cloves , minced (~ 3 tsp)
+- 1 tbsp white wine vinegar (or red wine or apple cider vinegar)
+- 3 tbsp lemon juice
+- 1 tbsp extra virgin olive oil
+- 3 tbsp Greek yogurt , preferably full fat
+- 1 and 1/2 tbsp dried oregano
+- 1 tsp salt
+- Black pepper
+
+tzatziki:
+- 2 cucumbers (to make about 1/2 - 3/4 cup grated cucumber after squeezing out juice)
+- 1 1/4 cups Greek yoghurt , preferably full fat
+- 1 tbsp lemon juice
+- 1 tbsp extra virgin olive oil (or more if you want richer)
+- 1 garlic clove , minced
+- 1/4 tsp salt
+- Black pepper
+
+Serve with pita breads
 ** Gyudon
-[[https://www.youtube.com/watch?v=BVgf5GOcCsQ][Link]]
+[[https://www.youtube.com/watch?v=BVgf5GOcCsQ][Link]]\\
+Ingredients:
+- 200g Beef Loin (Thinly Sliced)
+- 140ml water
+- 100ml of mirin
+- 60ml of soy sauce
+- 2tbsp of brown sugar
+- a small bit of dashi fish stock (optional)
+- ½ Onion
+- ½ a washed burdock root
+-1 egg (per Gyudon) - for onsen tamago
+- 480g of rice (for 3 portions), 650ml of water.
+
+Steps:
+- Add 140ml water, 100ml of mirin, 60ml of soy sauce, 2 tbsp of brown sugar and a sprinkle of dashi fish stock into the pan you will use to cook the beef
+- Cut half a root of washed burdock into small slices and add to the water straight away (to avoid it oxidizing) ginger can also be substituted instead of burdock
+- Cut half an onion into thin slices and add to the liquid as well
+- Turn to a high heat with the lid on
+- Once it starts to boil, add your thinly sliced beef and cook for a few minutes until cooked through
+- Let the Beef Stew in the sauce for around 5 minutes
+- Serve on top of your rice!
+
+If you want to make onsen tamago:
+- Heat up water in a saucepan to 65C or 150F (don’t let it boil!)
+- Add your eggs to the saucepan and leave for 30 minutes
 ** Hala style chicken rice
 [[https://www.youtube.com/watch?v=Y645_5ikaYo][Link]]
+
+Ingredients:\\
+Chicken:
+- 4 boneless skinless chicken thighs
+- 5 g salt
+- 5 whole cloves, crushed
+- 1/2 tbsp cumin seeds, crushed
+- Sprinkle of oregano
+- 20 cranks black pepper
+- 3 garlic cloves, crushed
+- Juice from 1/4 of lemon
+- 30 g mayo
+
+Yellow Rice:
+- 15 g (tbsp) unsalted butter
+- 1/8 onion, finely diced
+- 1 tsp Cumin seeds
+- 1 tsp of Turmeric
+- 1 tsp of smoked paprika
+- 1 bay leaf
+- 200 g (about a cup) basmati rice
+- 250 g (about a cup) chicken broth (or water)
+- Salt to taste
+
 This looks very interesting especially the rice
 ** Marcella Hazan's 3 Ingredient Tomato Sauce
 [[https://www.ethanchlebowski.com/cooking-techniques-recipes/marcella-hazans-3-ingredient-tomato-sauce][Link]]
+
+Ingredients:
+- 1 28 oz can quality whole peeled tomatoes
+- 5 TBSP of butter
+- 1 onion
+- Coarse Kosher Salt
+
+To serve with pasta:
+- Fresh basil, chiffonade
+- Small handful of Parmigiano Reggiano
+- 1/2 lb Bucatini
+- 1/4 cup reserved pasta water
+
+Steps:\\
+Make Ahead Method:
+1) Crush the whole peeled tomatoes with a food mill or blender (optional)
+2) Add the tomatoes, butter, and onion to a large skillet over medium-low heat.
+3) Stirring occasionally, let the sauce simmer until it is reduced and thickened, about 30 minutes.
+4) The sauce can be stored in the fridge for about a week.
+
+To serve with pasta:
+1) Bring 3 quarts / liter of water to a boil in a large pot. Add 30 grams of salt or 1.5 TBSP if using Morton's coarse kosher salt (3 large pinches for me). Once the water has boiled, add the pasta and set a timer for 1-2 minutes less than the package says. Make sure to stir the pasta a few times in the first several minutes to avoid sticking. When the pasta is done, scoop off 1 cup of the pasta water and drain the pasta.
+2) Add the red sauce to a pan over medium low heat with chiffonade basil and a small handful of parmigiano reggiano. Let cook, while stirring, for 2 minutes.
+3) Add the bucatini, and reserved pasta water. Vigorously stir until the sauce completely coats the pasta.
+4) Plate and serve with more fresh basil and parmigiano reggiano.
+
 ** Chicken Kathi Roll With Green Chutney
 [[https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-kathi-rolls][Link]]
 Marinated Chicken:
@@ -262,10 +391,22 @@ Marinated Chicken:
 
 INSTRUCTIONS:
 
-1. Set the oven on broil over high.
-2. Add the peeled garlic cloves and knob of ginger to a mortar and pestle and bash into a rough paste.
-3. Cut the chicken into small cubes and add them to a large mixing bowl along with the salt, msg (if using), lime juice, ground cumin, chili powder, turmeric, black pepper, garlic, ginger, tomato paste, and plain yogurt. Mix well and coat every piece. Note: Cover and marinate in the fridge overnight for best results.
-4. Get out a baking sheet and evenly space the chicken so none of the pieces are touching, this will help with even cooking and better browning. Place under the broiler and cook for about 8 to 10 minutes during which some charred pieces should develop. Take them out and flip with a spatula once before cooking for another couple of minutes. Then set aside.
-5. While the chicken is cooking, prepare the chutney. Add the lime juice, roma tomato, salt, green chiles, a handful of cilantro, the mint leaves, and grated coconut to a blender and pulse until completely smooth. Thin out with water as needed. Taste it! Add more salt or citrus juice as needed.
-6. Set a pan over medium heat and add some ghee or oil. Place a frozen or fresh-made paratha and gently cook until golden brown and crispy on both sides. Note: If you want to make it an egg roll, scramble one egg and pour it on one side of the golden brown paratha. Flip once and cook the egg face down before assembling the Kathi roll.
-7. Assemble the roll. Spread a spoonful or two of the chutney on the bottom followed by a serving of the chicken. Garnish with pickled onions, thinly sliced cucumber, and more chutney as needed.
+1) Set the oven on broil over high.
+2) Add the peeled garlic cloves and knob of ginger to a mortar and pestle and bash into a rough paste.
+3) Cut the chicken into small cubes and add them to a large mixing bowl along with the salt, msg (if using), lime juice, ground cumin, chili powder, turmeric, black pepper, garlic, ginger, tomato paste, and plain yogurt. Mix well and coat every piece. Note: Cover and marinate in the fridge overnight for best results.
+4) Get out a baking sheet and evenly space the chicken so none of the pieces are touching, this will help with even cooking and better browning. Place under the broiler and cook for about 8 to 10 minutes during which some charred pieces should develop. Take them out and flip with a spatula once before cooking for another couple of minutes. Then set aside.
+5) While the chicken is cooking, prepare the chutney. Add the lime juice, roma tomato, salt, green chiles, a handful of cilantro, the mint leaves, and grated coconut to a blender and pulse until completely smooth. Thin out with water as needed. Taste it! Add more salt or citrus juice as needed.
+6) Set a pan over medium heat and add some ghee or oil. Place a frozen or fresh-made paratha and gently cook until golden brown and crispy on both sides. Note: If you want to make it an egg roll, scramble one egg and pour it on one side of the golden brown paratha. Flip once and cook the egg face down before assembling the Kathi roll.
+7) Assemble the roll. Spread a spoonful or two of the chutney on the bottom followed by a serving of the chicken. Garnish with pickled onions, thinly sliced cucumber, and more chutney as needed.
+** Chicken boursin
+Ingredients:
+- can of Champignon soup
+- Water
+- One package of boursin
+- 500 gram chicken breast in small cubes
+
+Steps:
+1) First cook your chicken until it's brown.
+2) Then add the champignon soup with a bit of water so as to empty the can properly.
+3) Finally add the boursin and melt it into the mixture.
+4) Then finally serve with rice.

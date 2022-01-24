@@ -3,9 +3,6 @@
 #+OPTIONS: \n:t
 
 * Ideas
-** Focaccia Sandwich and Pizza :Bread:Pizza:Sandwich:
-This [[https://www.youtube.com/watch?v=eq8vuOSnV68][video]] seemed interesting about how they make use of focaccia
-
 ** zha jiang min :Chinese:Noodles:Pork:
 [[https://youtu.be/NM4ArR-qbHQ][Link]] \\
 1-Hour Noodles \\
