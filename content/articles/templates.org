@@ -1,0 +1,110 @@
+#+TITLE: Templates
+#+OPTIONS: \n:t
+
+* Templates
+** Stir Fry :Template:Wok:
+This is a stir fry template here I describe the required parts of a stir fry and the optional parts.
+
+Required:
+- Garlic
+- Ginger
+
+Optional:
+Vegetable:
+- Mushrooms
+- Onion
+- Red pepper
+- Spring onion
+- Peppers
+
+Meat:
+- Chicken
+- Pork
+- Beef
+
+Sauces:
+- Teriyaki Sauce
+- Soy based sauce
+
+** Burritos :Beef:Template:Mexican:
+ESSENTIAL INGREDIENTS 
+- Rundergehakt 700-800 gram 
+- Mais 
+- Paprika 
+- Onions 
+- Wrap 
+- Cheese 
+- Creme fraiche 
+ 
+POSSIBLE INGREDIENTS 
+- Chili Pepers 
+- Knoflook 
+- Tomaat 
+- Champignons 
+- Sla 
+ 
+Spices: 
+- Taco
+
+** Quesedillas :Vegan:Mexican:Cheese:
+Ingredients: 
+- Wraps 
+- Cheese 
+- Olive oil or Butter
+ 
+Optional: 
+- Bacon stukjes 
+- Avocado 
+- Sla 
+- Lente uien 
+- Tomatoes Diced 
+- Prosciutto  
+- Thinly sliced chorizo
+
+** How to pimp my noodles :Noodles:
+This is a simple guide on how to pimp your instant [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodles]].
+
+Ingredients:
+- Vegetables
+- 1 clove Garlic
+- 1/2 tsp grated ginger
+- 250 ml broth
+- 250 ml water
+- 1 package instant ramen
+- 1 egg
+- 1 green onion
+
+Steps:
+1. Add the oil, garlic, and ginger to a small sauce pot and sauté over medium for about one minute.
+2. Add your vegetable of choice and saute for about a minute.
+3. Add the broth and water, and bring to a boil.
+4. Now make your broth your own add sauces to the broth and taste whether this is what you like. My personal favorite thing to add is sriracha and chicken bouillon as broth.
+5. Crack the egg into the broth for about a minute, then add your instant noodles for 3 minutes.
+6. Transfer the soup to a bowl, then top it with sliced green onion.
+
+** Rice :Rice:
+This is the formula for how to make rice.
+The only requirement is that you wash your rice before following this.
+
+|--------------+---------|
+| Rice         | Water   |
+|--------------+---------|
+| Sushi Rice   | 1 + 1/3 |
+|--------------+---------|
+| Normal Rice  | 1 + 1/2 |
+|--------------+---------|
+| Basmati Rice | 1 + 2   |
+|--------------+---------|
+
+*** Spice Up your rice
+What is nice to do with basmati rice is adding whole seeds to them.
+How you do this is by doing the following:
+1. Wash your rice but don't soak it.
+2. Prepare a pan add butter in it add your whole seeds and some salt.
+3. Let the seeds fizzle for a while.
+4. Add your rice and fry them on low heat for 30 seconds.
+5. Add water and let it cook on the lowest heat for 10 minutes.
+6. Last of all let it steam for 5 minutes.
+** Ramen
+I would recommend looking into this book [[./pdf/The Ramen_Lord Book of Ramen.pdf][The Ramen Lord Book of Ramen]]
+Also [[https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-shoyu-ramen][this]] has some interesting ideas.
