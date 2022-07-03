@@ -1,7 +1,6 @@
 #+TITLE: Cooking
 #+DESCRIPTION: This is my cooking guide here I place recipes I have found that look interesting and those I've tried. I also make templates for certain styles of food to allow for more creativity.
 #+AUTHOR: Tobin Stultiens
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: tags:nil
 #+OPTIONS: \n:t
 
