@@ -251,7 +251,7 @@ Ingredients: 
 1) Put some pepper and salt on this alongside onion rings.
 2) Then cover this with a generous amount of cheese.
 Enjoy!
-[[file:./images/ala_mario.jpg]]
+[[ala_mario.jpg]]
 [[file:./images/ala_mario2.jpg]]
 ** Parma Ham sandwich
 [[https://www.lavenderandlovage.com/2019/07/italian-sub-sandwich-with-prosciutto-di-parma-ham.html][Link]]\\
