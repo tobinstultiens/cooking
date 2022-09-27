@@ -8,9 +8,9 @@ Welcome to my cooking log here you can find all of the recipes I find interestin
 Where you can see templates on how to make certain recipes without railroading.
 
 * Table of Contents
-+ [[file:articles/recipes.org][Recipes]]
-+ [[file:articles/templates.org][Templates]]
-+ [[file:articles/sauces.org][Sauces]]
++ [[file:cooking/recipes.org][Recipes]]
++ [[file:cooking/templates.org][Templates]]
++ [[file:cooking/sauces.org][Sauces]]
 + [[file:articles/baking.org][Baking]]
 + [[file:articles/soup.org][Soup]]
 + [[file:articles/ideas.org][Ideas]]

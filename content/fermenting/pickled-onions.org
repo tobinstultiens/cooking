@@ -1,8 +1,6 @@
-#+TITLE: Fermenting
-#+OPTIONS: \n:t
+#+title: Pickled Onions
 
-* Fermenting
-** Pickled Onions :Pickled:
+* Pickled Onions :Pickled:
 This is a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
 INGREDIENTS:
 - Red onions

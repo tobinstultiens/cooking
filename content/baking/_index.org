@@ -1,0 +1,10 @@
+#+title: Baking
+
+This is the index for baking
+
+* Index
+** [[{{% ref cheesy-garlic-bread.org %}}][Cheesy Garlic Bread]]
+** [[{{% ref flatbread.org %}}][Flatbread]]
+** [[{{% ref flour-tortillas.org %}}][Flour Tortillas]]
+** [[{{% ref focaccia-bread.org %}}][Focaccia Bread]]
+** [[{{% ref onion-bread.org %}}][Onion Bread]]

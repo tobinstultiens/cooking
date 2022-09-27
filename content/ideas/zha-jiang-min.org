@@ -1,8 +1,6 @@
-#+TITLE: Ideas
-#+OPTIONS: \n:t
+#+title: Zha Jiang Min
 
-* Ideas
-** zha jiang min :Chinese:Noodles:Pork:
+* zha jiang min :Chinese:Noodles:Pork:
 [[https://youtu.be/NM4ArR-qbHQ][Link]] \\
 1-Hour Noodles \\
 Servings: 2 \\
@@ -29,11 +27,3 @@ Preparation 
 5. Cook the noodles according to the package instructions, then drain.  
 6. Place  the cooked noodles in a serving bowl and top with the ground pork  mixture. Garnish with the egg crepe strips, cucumber, cilantro, and  remaining teaspoon of minced garlic. 
 Enjoy! 
-** Calzone :Italian:Pizza:
-[[https://www.youtube.com/watch?v=PrbpuNZyoUQ][link]]
-** Poblano con queso taco :Mexican:Cheese:Taco:
-This [[https://youtu.be/YtkyC2Ctz6E][recipe]] looked interesting.
-** Crispy Baked wings :Chicken:Wings:
-This just looks [[https://www.youtube.com/watch?v=mh2AXh1eRmE][good]].
-** PK Chicken Karahi :Chicken:
-[[https://www.youtube.com/watch?v=4PMmH2-5wJM][link]]
