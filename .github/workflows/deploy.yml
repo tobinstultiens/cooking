@@ -16,5 +16,5 @@ jobs:
       uses: klakegg/actions-hugo@1.0.0
       with:
         version: latest
-        image: ${{ secrets.DOCKER_USERNAME }}/cooking
+        image: ${{ secrets.DOCKER_USERNAME }}
         env: production
