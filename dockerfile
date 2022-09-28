@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.101.0-onbuild AS hugo
+FROM klakegg/hugo:onbuild AS hugo
 FROM nginx:latest
 ADD static /usr/share/nginx/html/images
 ADD pdf /usr/share/nginx/html/pdf
