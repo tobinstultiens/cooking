@@ -16,6 +16,5 @@ jobs:
       uses: klakegg/actions-hugo@1.0.0
       with:
         version: latest
-        image: |
-          ${{ secrets.DOCKER_USERNAME }}/${GITHUB_REPOSITORY#*/}
+        image: ${{ secrets.DOCKER_USERNAME }}/cooking
         env: production
