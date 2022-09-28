@@ -1,9 +1,6 @@
 name: Cooking
 
-on:
-  push:
-    paths:
-    - 'html/**'
+on: [push]
 
 jobs:
   docker:

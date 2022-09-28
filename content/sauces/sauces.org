@@ -1,0 +1,9 @@
+#+title: Sauces
+
+* Index
+** [[file:burger-sauce.org][Burger Sauce]]
+** [[file:cheese-dip.org][Cheese Dip]]
+** [[file:creamy-buffalo.org][Creamy Buffalo]]
+** [[file:garlic-sauce.org][Garlic Sauce]]
+** [[file:salsa.org][Salsa]]
+** [[file:teriyaki-sauce.org][Teriyaki Sauce]]

@@ -1,0 +1,22 @@
+#+title: Recipes
+
+* Index
+** [[file:ala-mario.org][Ala Mario]]
+** [[file:black-pepper-beef.org][Black Pepper Beef]]
+** [[file:chicken-boursin.org][Chicken Boursin]]
+** [[file:chicken-enchiladas.org][Chicken Enchiladas]]
+** [[file:chicken-gyros.org][Chicken Gyros]]
+** [[file:chicken-kathi-roll-with-green-chutney.org][Chicken Kathi Roll]]
+** [[file:easy-mexican-casserole.org][Mexican Casserole]]
+** [[file:egg-salad.org][Egg Salad]]
+** [[file:gyudon.org][Gyudon]]
+** [[file:hala-style-chicken-rice.org][Hala Style Chicken Rice]]
+** [[file:korean-fried-chicken.org][Korean Fried Chicken]]
+** [[file:marcella-hazan-3-ingredient-tomato-sauce.org][3 Ingredient tomato Sauce]]
+** [[file:parma-ham-sandwich.org][Parma Ham Sandwhich]]
+** [[file:sesame-beef.org][Sesame Beef]]
+** [[file:spicy-sesame-rice-bowl.org][Spicy Sesame Rice Bowl]]
+** [[file:spicy-thai-basil-chicken.org][Spicy Thai Basil Chicken]]
+** [[file:stokbrood-pittig-gehakt.org][Stokbrood pittig gehakt]]
+** [[file:sweet-and-sour-chicken.org][Sweet and Sour Chicken]]
+** [[file:wraps.org][Wraps]]
