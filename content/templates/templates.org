@@ -1,9 +1,0 @@
-#+title: Templates
-
-* Index
-** [[file:burritos.org][Burritos]]
-** [[file:pimp-my-noodles.org][Pimp My Noodles]]
-** [[file:quesedillas.org][Quesedillas]]
-** [[file:ramen.org][Ramen]]
-** [[file:rice.org][Rice]]
-** [[file:stir-fry.org][Stir Fry]]
