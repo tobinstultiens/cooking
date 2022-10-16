@@ -11,6 +11,10 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Install npm
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v2
