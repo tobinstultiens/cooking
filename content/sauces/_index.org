@@ -1,0 +1,9 @@
+#+title: Sauces
+
+* Index
+** [[{{% ref burger-sauce.org %}}][Burger Sauce]]
+** [[{{% ref cheese-dip.org %}}][Cheese Dip]]
+** [[{{% ref creamy-buffalo.org %}}][Creamy Buffalo]]
+** [[{{% ref garlic-sauce.org %}}][Garlic Sauce]]
+** [[{{% ref salsa.org %}}][Salsa]]
+** [[{{% ref teriyaki-sauce.org %}}][Teriyaki Sauce]]

@@ -1,0 +1,8 @@
+#+title: Ideas
+
+* Index
+** [[{{% ref calzone.org %}}][Calzone]]
+** [[{{% ref crispy-baked-wings.org %}}][Crispy Baked Wings]]
+** [[{{% ref pk-chicken-karahi.org %}}][PK Chicken Karahi]]
+** [[{{% ref poblano-con-queso-taco.org %}}][Poblano Con Queso Taco]]
+** [[{{% ref zha-jiang-min.org %}}][Zha Jiang Min]]
