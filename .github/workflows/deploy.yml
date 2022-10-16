@@ -16,6 +16,9 @@ jobs:
         with:
           node-version: 16
 
+      - run: npm install
+        working-directory: themes/hugo-geekdoc
+
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v2
 
