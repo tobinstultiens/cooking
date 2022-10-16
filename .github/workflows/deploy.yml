@@ -13,7 +13,6 @@ jobs:
 
       - name: Install npm
         uses: actions/setup-node@v3
-        working-directory: themes/hugo-geekdoc
         with:
           node-version: 16
         run: npm install
