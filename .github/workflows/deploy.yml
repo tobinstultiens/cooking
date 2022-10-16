@@ -11,6 +11,16 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Install npm
+        uses: actions/setup-node@v3
+        working-directory: themes/hugo-geekdoc
+        with:
+          node-version: 16
+        run: npm install
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v2
+
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2
 
@@ -24,5 +34,6 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: .
+          platforms: linux/amd64,linux/arm64
           push: true
           tags: kick1999/cooking:latest
