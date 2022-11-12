@@ -1,6 +1,0 @@
-#+title: Soup
-
-* Index
-** [[{{% ref asperge-soup.org %}}][Asperge Soup]]
-** [[{{% ref miso-soup.org %}}][Miso Soup]]
-** [[{{% ref simple-champignon-soup.org %}}][Simple Champignon Soup]]

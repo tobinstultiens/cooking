@@ -1,9 +1,0 @@
-#+title: Templates
-
-* Index
-** [[{{% ref burritos.org %}}][Burritos]]
-** [[{{% ref pimp-my-noodles.org %}}][Pimp My Noodles]]
-** [[{{% ref quesedillas.org %}}][Quesedillas]]
-** [[{{% ref ramen.org %}}][Ramen]]
-** [[{{% ref rice.org %}}][Rice]]
-** [[{{% ref stir-fry.org %}}][Stir Fry]]
