@@ -1,5 +1,5 @@
 aseURL = "http://localhost"
-title = "Geekdocs"
+title = "Cooking"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
