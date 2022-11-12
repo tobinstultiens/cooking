@@ -1,6 +1,4 @@
 *.tex
-*.html
-!html/**/*.html
 
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
