@@ -1,4 +1,4 @@
-#+title: Chicken Enchiladas
+#+title: Enchiladas
 #+OPTIONS: \n:t
 
 * Chicken Enchiladas :Chicken:Mexican:

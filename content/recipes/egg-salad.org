@@ -1,6 +1,5 @@
 #+title: Egg Salad
 
-* Egg salad
 Ingredients:
 - Eggs
 - Pepper and salt

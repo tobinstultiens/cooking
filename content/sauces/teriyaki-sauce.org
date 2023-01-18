@@ -1,6 +1,5 @@
 #+title: Teriyaki Sauce
 
-* Teriyaki Sauce :Sauce:Japanese:
 ** 3 Ingredient Version
 Basic teriyaki sauce
 

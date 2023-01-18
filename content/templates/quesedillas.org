@@ -1,6 +1,5 @@
 #+title: Quesedillas
 
-* Quesedillas :Vegan:Mexican:Cheese:
 Ingredients: 
 - Wraps 
 - Cheese 

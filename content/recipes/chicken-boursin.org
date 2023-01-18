@@ -1,6 +1,5 @@
 #+title: Chicken Boursin
 
-* Chicken boursin
 Ingredients:
 - can of Champignon soup
 - Water

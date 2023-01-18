@@ -1,6 +1,5 @@
 #+title: Rice
 
-* Rice :Rice:
 This is the formula for how to make rice.
 The only requirement is that you wash your rice before following this.
 

@@ -1,7 +1,6 @@
 #+title: Sesame Beef
 #+OPTIONS: \n:t
 
-* Sesame Beef :Beef:Wok:
 [[https://www.allrecipes.com/recipe/14679/sesame-beef/][Link]]
 Ingredients: 
 - 1 pound round steak 

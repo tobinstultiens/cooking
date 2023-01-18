@@ -1,6 +1,5 @@
 #+title: Burger Sauce
 
-* Burger Sauce :Sauce:
 Ingredients:
 - 2/3 Mayonnaise
 - 1/3 Ketchup

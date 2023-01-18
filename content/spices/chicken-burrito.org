@@ -1,6 +1,6 @@
 #+title: Chicken burrito
 
-* Spice for chicken burritos
+* Spices for chicken burritos
 ** Ingredients
 - 1 tsp each onion powder, dried oregano, salt
 - 2 tsp each dried cumin powder, paprika

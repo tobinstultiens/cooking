@@ -1,6 +1,5 @@
 #+title: Burritos
 
-* Burritos :Beef:Template:Mexican:
 ESSENTIAL INGREDIENTS 
 - Rundergehakt 700-800 gram 
 - Mais 

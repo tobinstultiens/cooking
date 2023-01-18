@@ -1,4 +1,4 @@
-#+title: Simple Champignon Soup
+#+title: Champignon Soup
 
 * Simple Champignon soup
 [[https://www.youtube.com/watch?v=vgIplQn92gU&t=196s][Link]]\\

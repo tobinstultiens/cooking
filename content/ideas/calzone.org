@@ -1,4 +1,3 @@
 #+title: Calzone
 
-* Calzone :Italian:Pizza:
 [[https://www.youtube.com/watch?v=PrbpuNZyoUQ][link]]

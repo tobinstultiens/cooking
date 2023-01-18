@@ -1,7 +1,6 @@
 #+title: Black Pepper Beef
 #+OPTIONS: \n:t
 
-* Black pepper beef :Beef:Wok:
 [[https://schoolofwok.co.uk/tips-and-recipes/black-pepper-beef][Link]]\\
 Ingredients:
 - 350g steak, sliced into strips against the grain

@@ -1,6 +1,5 @@
 #+title: Stir Fry
 
-* Stir Fry :Template:Wok:
 This is a stir fry template here I describe the required parts of a stir fry and the optional parts.
 
 Required:

@@ -1,6 +1,6 @@
 #+title: Pickled Onions
 
-* Pickled Onions :Pickled:
+* Pickled Red Onions
 This is a nice acidic [[https://www.youtube.com/watch?v=K4HbmPu_M_4&t=24s][recipe]].
 INGREDIENTS:
 - Red onions

@@ -1,4 +1,4 @@
-#+title: Easy Mexican Casserole
+#+title: Mexican Casserole
 #+OPTIONS: \n:t
 
 * Easy Mexican Casserole :Mexican:Beef:
