@@ -3,14 +3,16 @@
 [[https://www.youtube.com/watch?v=SDpCzJw2xm4][Link]]
 
 Ingredients:
-- 2 1/4 cups (530 ml) (38 celsius) warm water
-- 1 tbsp sugar (12g) sugar
-- 1 tbsp (9g) active dry yeast
-- 2 tbsp (30 ml) olive oil
-- 1 tbsp (18 g) kosher salt
-- 5 cups (750) bread flour, plus more for working the dough
+- 530 ml (38 celsius) warm water
+- 12g sugar
+- 9g active dry yeast
+- 30 ml olive oil
+- 18 g kosher salt
+- 820 gr bread flour, plus potentially more for working the dough
 - additional oil for greasing the dough
 - cornmeal, semolina flour, or coarse-ground whole wheat flour for dusting
+
+Important aim for between 65-60% hydration
 
   Steps
   1. Bloom the yeast in a stand mixer bowl with the teaspoon of sugar and ¼ cup water.
