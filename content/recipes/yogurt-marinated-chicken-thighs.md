@@ -1,6 +1,8 @@
-#+title: Yogurt Marinated Chicken Thighs
+---
+title: Yogurt Marinated Chicken Thighs
+---
 
-[[https://diethood.com/yogurt-marinated-chicken-thighs/][Link]]
+[Link](https://diethood.com/yogurt-marinated-chicken-thighs/)
 
 Ingredients:
 - 1 cup nonfat plain yogurt

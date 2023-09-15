@@ -1,4 +1,6 @@
-#+title: Fajitas
+---
+title: Fajitas
+---
 
 Ingredients:
 - Chicken

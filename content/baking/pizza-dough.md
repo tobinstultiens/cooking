@@ -1,6 +1,8 @@
-#+title: Pizza Dough
+---
+title: Pizza Dough
+---
 
-[[https://www.youtube.com/watch?v=SDpCzJw2xm4][Link]]
+[Link](https://www.youtube.com/watch?v=SDpCzJw2xm4)
 
 Ingredients:
 - 530 ml (38 celsius) warm water

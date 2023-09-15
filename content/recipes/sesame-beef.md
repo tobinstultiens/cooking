@@ -1,7 +1,8 @@
-#+title: Sesame Beef
-#+OPTIONS: \n:t
+---
+title: Sesame Beef
+---
 
-[[https://www.allrecipes.com/recipe/14679/sesame-beef/][Link]]
+[Link](https://www.allrecipes.com/recipe/14679/sesame-beef/)
 Ingredients: 
 - 1 pound round steak 
 - 4 tablespoons soy sauce 

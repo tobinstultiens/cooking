@@ -1,8 +1,10 @@
-#+title: Focaccia Bread
+---
+title: Focaccia Bread
+---
 
-This [[https://www.youtube.com/watch?v=HTD-z1wd0tw&t=0s][video]] seemed like an easy way to make this bread
+This [video](https://www.youtube.com/watch?v=HTD-z1wd0tw&t=0s) seemed like an easy way to make this bread
 
-** Dough Ingredients:
+## Dough Ingredients:
 - 9 g Instant Yeast
 - 335 g Water (105-115 F)
 - 450 g Flour (Bread or All purpose)
@@ -19,7 +21,7 @@ Topping Ideas:
 - Garlic
 - Chiles
 
-** Instructions:
+## Instructions:
 1. Mix the ingredients
 
 

@@ -1,7 +1,9 @@
-#+title: Pimp My Noodles
+---
+title: Pimp My Noodles
+---
 
-* How to pimp my noodles :Noodles:
-This is a simple guide on how to pimp your instant [[https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/][noodles]].
+# How to pimp my noodles :Noodles:
+This is a simple guide on how to pimp your instant [noodles](https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/).
 
 Ingredients:
 - Vegetables

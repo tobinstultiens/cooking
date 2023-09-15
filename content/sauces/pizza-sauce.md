@@ -1,6 +1,8 @@
-#+title: Pizza Sauce
+---
+title: Pizza Sauce
+---
 
-[[https://www.seriouseats.com/new-york-style-pizza-sauce][Link]]
+[Link](https://www.seriouseats.com/new-york-style-pizza-sauce)
 
 Ingredients:
 - 1 ( 28- ounce) can whole peeled tomatoes

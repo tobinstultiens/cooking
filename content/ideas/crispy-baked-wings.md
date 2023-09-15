@@ -1,3 +1,5 @@
-#+title: Crispy Baked Wings
+---
+title: Crispy Baked Wings
+---
 
-This just looks [[https://www.youtube.com/watch?v=mh2AXh1eRmE][good]].
+This just looks [good](https://www.youtube.com/watch?v=mh2AXh1eRmE).

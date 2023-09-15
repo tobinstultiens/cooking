@@ -1,7 +1,9 @@
-#+title: Champignon Soup
+---
+title: Champignon Soup
+---
 
-* Simple Champignon soup
-[[https://www.youtube.com/watch?v=vgIplQn92gU&t=196s][Link]]\\
+# Simple Champignon soup
+[Link](https://www.youtube.com/watch?v=vgIplQn92gU&t=196s)\\
 Ingredients:
 - 4 tablespoons unsalted butter (50g)
 - 2 pounds mixed mushrooms such as button, cremini, portabello, or shiitake (1kg), sliced

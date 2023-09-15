@@ -1,6 +1,8 @@
-#+title: Gyudon
+---
+title: Gyudon
+---
 
-[[https://www.youtube.com/watch?v=BVgf5GOcCsQ][Link]]\\
+[Link](https://www.youtube.com/watch?v=BVgf5GOcCsQ)
 Ingredients:
 - 200g Beef Loin (Thinly Sliced)
 - 140ml water

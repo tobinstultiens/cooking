@@ -1,7 +1,9 @@
-#+title: Tomato Sauce
+---
+title: Tomato Sauce
+---
 
-* Marcella Hazan's 3 Ingredient Tomato Sauce
-[[https://www.ethanchlebowski.com/cooking-techniques-recipes/marcella-hazans-3-ingredient-tomato-sauce][Link]]
+# Marcella Hazan's 3 Ingredient Tomato Sauce
+[Link](https://www.ethanchlebowski.com/cooking-techniques-recipes/marcella-hazans-3-ingredient-tomato-sauce)
 
 Ingredients:
 - 1 28 oz can quality whole peeled tomatoes

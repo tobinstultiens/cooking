@@ -1,4 +1,6 @@
-#+title: Rice
+---
+title: Rice
+---
 
 This is the formula for how to make rice.
 The only requirement is that you wash your rice before following this.
@@ -13,7 +15,7 @@ The only requirement is that you wash your rice before following this.
 | Basmati Rice | 1 + 2   |
 |--------------+---------|
 
-** Spice Up your rice
+## Spice Up your rice
 What is nice to do with basmati rice is adding whole seeds to them.
 How you do this is by doing the following:
 1. Wash your rice but don't soak it.

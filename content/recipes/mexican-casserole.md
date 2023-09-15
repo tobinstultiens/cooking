@@ -1,8 +1,9 @@
-#+title: Mexican Casserole
-#+OPTIONS: \n:t
+---
+title: Mexican Casserole
+---
 
-* Easy Mexican Casserole :Mexican:Beef:
-[[https://www.allrecipes.com/recipe/20680/easy-mexican-casserole/][Link]]\\
+# Easy Mexican Casserole :Mexican:Beef:
+[Link](https://www.allrecipes.com/recipe/20680/easy-mexican-casserole/)\\
 Ingredients: 
 - 1 pound lean ground beef 
 - 2 cups salsa 

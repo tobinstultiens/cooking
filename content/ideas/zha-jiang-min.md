@@ -1,6 +1,8 @@
-#+title: Zha Jiang Min
+---
+title: Zha Jiang Min
+---
 
-[[https://youtu.be/NM4ArR-qbHQ][Link]] \\
+[Link](https://youtu.be/NM4ArR-qbHQ) \\
 1-Hour Noodles \\
 Servings: 2 \\
 Ingredients 

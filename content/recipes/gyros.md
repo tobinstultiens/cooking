@@ -1,8 +1,10 @@
-#+title: Gyros
+---
+title: Gyros
+---
 
-* Chicken Gyros
-[[https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/][Link]]\\
-Ingredients:\\
+# Chicken Gyros
+[Link](https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/)
+Ingredients:
 Marinade:
 - 2 lb / 1 kg chicken thigh fillets
 - 3 large garlic cloves , minced (~ 3 tsp)

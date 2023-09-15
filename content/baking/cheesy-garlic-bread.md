@@ -1,7 +1,8 @@
-#+title: Cheesy Garlic Bread
+---
+title: Cheesy Garlic Bread
+---
 
-[2 pieces of 22cmx17cm (serves 2-4 people)]
-✤ Dough
+## Dough
   - 200g Bread flour
   - 5g(0.5tbsp) Instant dry yeast
   - 8g(1tbsp) Sugar
@@ -9,17 +10,17 @@
   - 15g(2tbsp) Olive oil (Cooking oil can be used)
   - 120ml Warm water
 
-✤ Cream Cheese Sauce
+## Cream Cheese Sauce
   - 10g(0.5tbsp) Minced garlic
   - 20g(2tbsp) Melted unsalted butter
   - 30g(1big tbsp) cream cheese
 
-✤ Toppings
+## Toppings
   - 280g Mozzarella cheese
   - Parmesan Cheese
   - Oregano (can be omitted) Parsley can be used
 
-✤ Dipping sauce
+## Dipping sauce
   - Honey
   - Tomato Sauce
 
@@ -34,4 +35,4 @@
 9. Top with cream cheese mixture and mozzarella.
 10. Place into the oven for 8 - 10 minutes.
 
-[[https://www.youtube.com/watch?v=8LPVOjjSgDE][Link]]
+[Link](https://www.youtube.com/watch?v=8LPVOjjSgDE)

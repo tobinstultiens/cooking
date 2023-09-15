@@ -1,7 +1,9 @@
-#+title: Kathi Roll
+---
+title: Kathi Roll
+---
 
-* Chicken Kathi Roll With Green Chutney
-[[https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-kathi-rolls][Link]]
+# Chicken Kathi Roll With Green Chutney
+[Link](https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-kathi-rolls)
 Marinated Chicken:
 - 6 Boneless, skinless chicken thighs
 - 10 g Salt

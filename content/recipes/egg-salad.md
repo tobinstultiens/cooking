@@ -1,4 +1,6 @@
-#+title: Egg Salad
+---
+title: Egg Salad
+---
 
 Ingredients:
 - Eggs

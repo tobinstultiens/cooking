@@ -1,4 +1,6 @@
-#+title: Stir Fry
+---
+title: Stir Fry
+---
 
 This is a stir fry template here I describe the required parts of a stir fry and the optional parts.
 

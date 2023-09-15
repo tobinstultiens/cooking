@@ -1,4 +1,6 @@
-#+title: Burger Sauce
+---
+title: Burger Sauce
+---
 
 Ingredients:
 - 2/3 Mayonnaise

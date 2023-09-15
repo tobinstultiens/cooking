@@ -1,4 +1,6 @@
-#+title: Sate
+---
+title: Sate
+---
 
 * Ingredients
 - 175 gram peanut butter

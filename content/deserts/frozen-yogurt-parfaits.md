@@ -1,6 +1,8 @@
-#+title: Frozen Yogurt Parfaits
+---
+title: Frozen Yogurt Parfaits
+---
 
-[[https://www.allrecipes.com/recipe/8395550/make-ahead-frozen-yogurt-parfaits/][Link]]
+[Link](https://www.allrecipes.com/recipe/8395550/make-ahead-frozen-yogurt-parfaits/)
 
 Ingredients:
 - For the Parfaits:

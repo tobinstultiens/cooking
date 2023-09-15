@@ -1,6 +1,8 @@
-#+title: Creamy Buffalo
+---
+title: Creamy Buffalo
+---
 
-[[https://www.ethanchlebowski.com/cooking-techniques-recipes/creamy-buffalo-sauce][Link for sauce]]
+[Link for sauce](https://www.ethanchlebowski.com/cooking-techniques-recipes/creamy-buffalo-sauce)
 This is quite a nice sauce I've tried it with sriracha sauce as hot sauce.
 The only thing I noticed is to watch out with what type of sriracha since some of them are thicker.
 
@@ -16,4 +18,4 @@ The only thing I noticed is to watch out with what type of sriracha since some o
 - Pour into a squeeze bottle and store in the fridge. Use as a dipping sauce, a marinade for chicken, or as a salad dressing. You've got options, baby.
 
 
-[[https://www.delish.com/cooking/recipe-ideas/recipes/a51133/classic-buffalo-wings-recipe/][With wings]]
+[With wings](https://www.delish.com/cooking/recipe-ideas/recipes/a51133/classic-buffalo-wings-recipe/)

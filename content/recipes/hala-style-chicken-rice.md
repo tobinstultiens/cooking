@@ -1,6 +1,8 @@
-#+title: Hala Style Chicken Rice
+---
+title: Hala Style Chicken Rice
+---
 
-[[https://www.youtube.com/watch?v=Y645_5ikaYo][Link]]
+[Link](https://www.youtube.com/watch?v=Y645_5ikaYo)
 
 Ingredients:\\
 Chicken:

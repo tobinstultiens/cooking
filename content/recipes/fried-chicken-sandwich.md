@@ -1,7 +1,9 @@
-#+title: Fried Chicken Sandwich
+---
+title: Fried Chicken Sandwich
+---
 
-* Five-Ingredient Fried Chicken Sandwiches
-[[https://www.youtube.com/watch?v=AQNg1dPKUFU][Link]]
+# Five-Ingredient Fried Chicken Sandwiches
+[Link](https://www.youtube.com/watch?v=AQNg1dPKUFU)
 
 Ingredients:
 - Chicken thighs

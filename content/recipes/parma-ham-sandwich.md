@@ -1,6 +1,8 @@
-#+title: Parma Ham Sandwich
+---
+title: Parma Ham Sandwich
+---
 
-[[https://www.lavenderandlovage.com/2019/07/italian-sub-sandwich-with-prosciutto-di-parma-ham.html][Link]]\\
+[Link](https://www.lavenderandlovage.com/2019/07/italian-sub-sandwich-with-prosciutto-di-parma-ham.html)
 Ingredients:
 - 1 small hot-dog or submarine roll, per person (about 5"/12.5cm long)
 - A bit of Pesto at the bottom

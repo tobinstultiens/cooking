@@ -1,4 +1,6 @@
-#+title: Burritos
+---
+title: Burritos
+---
 
 ESSENTIAL INGREDIENTS 
 - Rundergehakt 700-800 gram 

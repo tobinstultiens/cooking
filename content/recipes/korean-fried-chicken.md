@@ -1,5 +1,6 @@
-#+title: Korean Fried Chicken
-#+OPTIONS: \n:t
+---
+title: Korean Fried Chicken
+---
 
 Ingredients:
 - 2 pounds boneless skinless chicken thighs, cut into 1 inch pieces

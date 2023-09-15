@@ -1,3 +1,5 @@
-#+title: Poblano Con Queso Taco
+---
+title: Poblano Con Queso Taco
+---
 
-This [[https://youtu.be/YtkyC2Ctz6E][recipe]] looked interesting.
+This [recipe](https://youtu.be/YtkyC2Ctz6E) looked interesting.

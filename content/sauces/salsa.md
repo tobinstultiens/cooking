@@ -1,6 +1,8 @@
-#+title: Salsa
+---
+title: Salsa
+---
 
-Got the recipe from this [[https://www.youtube.com/watch?v=Upqp21Dm5vg][video]].
+Got the recipe from this [video](https://www.youtube.com/watch?v=Upqp21Dm5vg).
 
 - 2-3 large, ripe tomatoes - firm, fragrant, preferably on the vine
 - 1 medium red onion

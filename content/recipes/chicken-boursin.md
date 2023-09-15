@@ -1,4 +1,6 @@
-#+title: Chicken Boursin
+---
+title: Chicken Boursin
+---
 
 Ingredients:
 - can of Champignon soup

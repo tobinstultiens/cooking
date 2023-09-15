@@ -1,7 +1,8 @@
-#+title: Enchiladas
-#+OPTIONS: \n:t
+---
+title: Enchiladas
+---
 
-* Chicken Enchiladas :Chicken:Mexican:
+# Chicken Enchiladas :Chicken:Mexican:
 Ingredients:
 - 600 - 700 gram chicken
 - 1 onion, chopped

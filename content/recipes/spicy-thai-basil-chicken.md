@@ -1,6 +1,8 @@
-#+title: Spicy Thai Basil Chicken
+---
+title: Spicy Thai Basil Chicken
+---
 
-[[https://foodwishes.blogspot.com/2017/04/spicy-thai-basil-chicken-my-pad-krapow.html][Link]] 
+[Link](https://foodwishes.blogspot.com/2017/04/spicy-thai-basil-chicken-my-pad-krapow.html) 
  
 Ingredients: 
 - 1 pound freshly chopped chicken thighs 

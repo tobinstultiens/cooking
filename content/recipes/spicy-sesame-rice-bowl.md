@@ -1,7 +1,8 @@
-#+title: Spicy Sesame Rice Bowl
-#+OPTIONS: \n:t
+---
+title: Spicy Sesame Rice Bowl
+---
 
-[[https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/][Link]]\\
+[Link](https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/)\\
 Ingredients:
 - 1/3 c. Korean red pepper paste (gochujang)
 - 2 tbsp. toasted sesame oil

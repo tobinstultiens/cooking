@@ -1,6 +1,8 @@
-#+title: Sweet And Sour Chicken
+---
+title: Sweet And Sour Chicken
+---
 
-[[https://www.youtube.com/watch?v=RUDPussbU04][Link]]
+[Link](https://www.youtube.com/watch?v=RUDPussbU04)
 
 Ingredients:\\
 

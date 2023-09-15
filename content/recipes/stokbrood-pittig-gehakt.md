@@ -1,8 +1,9 @@
-#+title: Stokbrood Pittig Gehakt
-#+OPTIONS: \n:t
+---
+title: Stokbrood Pittig Gehakt
+---
 
 * Stokbrood met pittig gehakt
-[[https://www.lekkerensimpel.com/pittig-stokbrood-met-gehakt/][Link]]
+[Link](https://www.lekkerensimpel.com/pittig-stokbrood-met-gehakt/)
 
 Ingredients:
 - 1 stokbrood
