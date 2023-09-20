@@ -1,5 +1,6 @@
 ---
 title: Refried Beans
+tags: ['vegan', 'beans']
 ---
 
 [Link](https://www.youtube.com/watch?v=Al7F5xG4rAw) 

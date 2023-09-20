@@ -1,5 +1,6 @@
 ---
 title: Pizza Dough
+tags: ['dough']
 ---
 
 [Link](https://www.youtube.com/watch?v=SDpCzJw2xm4)
