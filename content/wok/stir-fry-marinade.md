@@ -14,3 +14,7 @@ For every pound of meat:
 - small pinch of MSG
 - 1/2 teaspoon (2g) baking soda
 - 1 teaspoon (5 ml) peanut, or other neutral oil
+
+# Steps
+1. Before marinating the meat using the ingredients wash the meat with cold water to tenderize the meat.
+2. Marinate the meat.
