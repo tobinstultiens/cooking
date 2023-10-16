@@ -1,5 +1,8 @@
 ---
-title: Chicken an waffles
+tags: 
+- Chicken
+- Waffles
+title: Chicken and waffles
 ---
 
 [Link](https://www.sweetteaandthyme.com/fried-chicken-waffles-spicy-honey-sauce/) 
