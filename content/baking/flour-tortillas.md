@@ -1,6 +1,8 @@
 ---
+tags: 
+- Bread
+- Mexican
 title: Tortillas
-tags: ['Bread','Mexican']
 ---
 
 # Flour Tortillas 
