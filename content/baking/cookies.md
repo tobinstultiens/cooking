@@ -1,4 +1,6 @@
 ---
+tags:
+- Chocolate
 title: Cookies
 ---
 
