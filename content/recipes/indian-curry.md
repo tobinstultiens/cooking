@@ -7,6 +7,7 @@ Ingredients:
 - 2 Tomaten
 - 4 Kippen dijen (Maakt niet uit of het in stukjes is of niet zolang de pan niet overvol raakt)
 - Gember en knoflook paste
+- Tomaten puree
 
 Spices:
 - Ground Turmeric
