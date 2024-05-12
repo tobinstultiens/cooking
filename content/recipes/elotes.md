@@ -3,12 +3,12 @@ title: Elotes (Mexican Street Corn)
 ---
 
 Ingredients:
-- Mayonaise
-- knoflook
-- Limoen
-- Chipotle
+- 100ml Mayonaise
+- 1-2 teentjes knoflook
+- 1 Limoen
 - Bosui
 - Peterselie (of coriander)
+- 4 Mais kolfen
 
 Toppings:
 - Feta
