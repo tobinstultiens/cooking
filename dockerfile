@@ -1,3 +1,4 @@
+ENV BUILDX_GIT_INFO=false
 FROM floryn90/hugo:0.133.0-onbuild AS hugo
 
 FROM nginx
