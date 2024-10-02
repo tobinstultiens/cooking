@@ -8,6 +8,7 @@ pluralizeListTitles = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
+## Enabling this causes the pipeline to fail
 # enableGitInfo = true
 
 # Required if you want to render robots.txt template
