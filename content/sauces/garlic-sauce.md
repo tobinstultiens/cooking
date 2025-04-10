@@ -14,7 +14,6 @@ Jesus fucking christ that's awful
 | 1      | clove garlic |
 |        | bieslook     |
 |        | peterselie   |
-|--------+--------------|
 
 1. With the back of a knife, crush the garlic with a pinch of salt into a paste.
 2. Mix garlic, mayonnaise and yoghurt. Season to taste with salt and pepper.

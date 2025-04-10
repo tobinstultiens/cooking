@@ -4,7 +4,7 @@ title: Sweet And Sour Chicken
 
 [Link](https://www.youtube.com/watch?v=RUDPussbU04)
 
-Ingredients:\\
+Ingredients:
 
 For marination:
 - Salt- 1/2 tsp

@@ -2,9 +2,9 @@
 title: Zha Jiang Min
 ---
 
-[Link](https://youtu.be/NM4ArR-qbHQ) \\
-1-Hour Noodles \\
-Servings: 2 \\
+[Link](https://youtu.be/NM4ArR-qbHQ) 
+1-Hour Noodles 
+Servings: 2 
 Ingredients 
 - 2 tablespoons plus 1 teaspoon vegetable oil, divided 
 - 1 tablespoon plus 1 teaspoon minced garlic, divided 

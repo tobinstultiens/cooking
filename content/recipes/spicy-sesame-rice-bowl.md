@@ -2,7 +2,7 @@
 title: Spicy Sesame Rice Bowl
 ---
 
-[Link](https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/)\\
+[Link](https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/)
 Ingredients:
 - 1/3 c. Korean red pepper paste (gochujang)
 - 2 tbsp. toasted sesame oil
@@ -22,6 +22,6 @@ Directions:
 2) Add beef to pressure-cooker pot along with mushrooms. Cover, lock and bring up to pressure on high. Reduce heat to medium-low, maintaining pressure. Cook 10 minutes.
 3) While beef cooks, toss cucumber with vinegar and 1/4 teaspoon of salt; set aside.
 4) Release pressure by using quick-release function. Divide spinach among 6 serving bowls; top each with 1 cup of rice. Drain cucumbers. Top rice with beef, mushrooms, cucumbers, green onions, carrots, kimchi and sesame seeds; drizzle with reserved sauce.
-Comments:\\
-Korean red pepper paste is replacable with sambal oelek but you need to thicken it. \\
+Comments:
+Korean red pepper paste is replacable with sambal oelek but you need to thicken it.
 Kogelbiefstuk works for this.
