@@ -4,7 +4,7 @@ title: Hala Style Chicken Rice
 
 [Link](https://www.youtube.com/watch?v=Y645_5ikaYo)
 
-Ingredients:\\
+Ingredients:
 Chicken:
 - 4 boneless skinless chicken thighs
 - 5 g salt

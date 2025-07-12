@@ -17,7 +17,7 @@ To serve with pasta:
 - 1/2 lb Bucatini
 - 1/4 cup reserved pasta water
 
-Steps:\\
+Steps:
 Make Ahead Method:
 1) Crush the whole peeled tomatoes with a food mill or blender (optional)
 2) Add the tomatoes, butter, and onion to a large skillet over medium-low heat.
