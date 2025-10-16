@@ -2,26 +2,32 @@
 title: Gyudon
 ---
 
-[Link](https://www.youtube.com/watch?v=BVgf5GOcCsQ)
+Serving: 2
+
 Ingredients:
-- 200g Beef Loin (Thinly Sliced)
-- 140ml water
-- 100ml of mirin
-- 60ml of soy sauce
-- 2tbsp of brown sugar
-- a small bit of dashi fish stock (optional)
-- ½ Onion
-- ½ a washed burdock root
--1 egg (per Gyudon) - for onsen tamago
-- 480g of rice (for 3 portions), 650ml of water.
+- 400g Beef (Thinly Sliced) (Note: You can use hot pot beef for this)
+- 1 large Onion
+- 5 g of grated fresh ginger
+- 1.5 cups of rice
+
+Sauce Ingredients:
+- 180ml dashi
+- 15ml shoyu (Japanese soy sauce)
+- 30ml mirin
+- 30ml dry-sake
+- 15g sugar (Use less if you prefer it less sweet)
+
+Toppings:
+- Sliced scallions
+- Togarashi
+- Beni-shoga
+- 1 egg (per Gyudon) - for onsen tamago
 
 Steps:
-- Add 140ml water, 100ml of mirin, 60ml of soy sauce, 2 tbsp of brown sugar and a sprinkle of dashi fish stock into the pan you will use to cook the beef
-- Cut half a root of washed burdock into small slices and add to the water straight away (to avoid it oxidizing) ginger can also be substituted instead of burdock
-- Cut half an onion into thin slices and add to the liquid as well
-- Turn to a high heat with the lid on
-- Once it starts to boil, add your thinly sliced beef and cook for a few minutes until cooked through
-- Let the Beef Stew in the sauce for around 5 minutes
+- Combine the Sauce ingredients in a medium skillet and set it to a medium heat and bring it to a boil.
+- Cut an onion into thin slices and add this to the liquid to simmer for around 5 minutes until half tender.
+- Once it starts to boil, add your thinly sliced beef and cook for around 5 minutes until cooked through.
+- Then finally stir in the ginger for an additional minute.
 - Serve on top of your rice!
 
 If you want to make onsen tamago:
