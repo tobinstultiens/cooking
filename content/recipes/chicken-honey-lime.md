@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - Spicy
 title: Chicken honey lime glaze
 ---
 

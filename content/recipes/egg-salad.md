@@ -1,4 +1,8 @@
 ---
+tags:
+  - Egg
+  - Vegetarian
+  - Quick
 title: Egg Salad
 ---
 

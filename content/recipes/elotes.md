@@ -1,4 +1,7 @@
 ---
+tags:
+  - Mexican
+  - Vegetarian
 title: Elotes (Mexican Street Corn)
 ---
 

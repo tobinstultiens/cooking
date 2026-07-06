@@ -1,4 +1,7 @@
 ---
+tags:
+  - Pork
+  - Chinese
 title: Zha Jiang Min
 ---
 

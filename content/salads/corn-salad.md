@@ -1,6 +1,8 @@
 ---
+tags:
+  - Vegetarian
+  - Mexican
 title: Corn salad
-tags: [salad, low calorie]
 ---
 
 # Ingredients

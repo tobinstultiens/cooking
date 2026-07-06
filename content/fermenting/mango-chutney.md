@@ -1,4 +1,8 @@
 ---
+tags:
+  - Indian
+  - Vegan
+  - Spicy
 title: Mango chutney
 ---
 

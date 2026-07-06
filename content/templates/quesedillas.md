@@ -1,4 +1,7 @@
 ---
+tags:
+  - Vegetarian
+  - Mexican
 title: Quesedillas
 ---
 

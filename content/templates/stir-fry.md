@@ -1,4 +1,6 @@
 ---
+tags:
+  - Chinese
 title: Stir Fry
 ---
 

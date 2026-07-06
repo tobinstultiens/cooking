@@ -8,5 +8,7 @@ geekdocToC: 1
 Welcome to my cooking log here you can find all of the recipes I find interesting or memorable.
 Where you can see templates on how to make certain recipes without railroading.
 
+{{<recipe-filter>}}
+
 {{<toc-tree>}}
 

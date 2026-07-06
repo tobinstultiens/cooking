@@ -1,4 +1,8 @@
 ---
+tags:
+  - Chicken
+  - Indian
+  - Spicy
 title: New Delhi Chicken Curry
 ---
 

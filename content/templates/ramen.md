@@ -1,4 +1,6 @@
 ---
+tags:
+  - Japanese
 title: Ramen
 ---
 

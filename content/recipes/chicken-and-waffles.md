@@ -1,7 +1,7 @@
 ---
-tags: 
-- Chicken
-- Waffles
+tags:
+  - Chicken
+  - American
 title: Chicken and waffles
 ---
 

@@ -1,4 +1,7 @@
 ---
+tags:
+  - Beef
+  - Greek
 title: Stifado
 ---
 

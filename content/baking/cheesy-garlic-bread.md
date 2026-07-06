@@ -1,6 +1,7 @@
 ---
 tags:
-- Bread
+  - Vegetarian
+  - Italian
 title: Cheesy Garlic Bread
 ---
 

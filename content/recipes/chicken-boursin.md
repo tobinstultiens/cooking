@@ -1,4 +1,6 @@
 ---
+tags:
+  - Chicken
 title: Chicken Boursin
 ---
 

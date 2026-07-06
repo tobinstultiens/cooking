@@ -1,4 +1,8 @@
 ---
+tags:
+  - Beef
+  - Dutch
+  - Spicy
 title: Stokbrood Pittig Gehakt
 ---
 

@@ -1,4 +1,8 @@
 ---
+tags:
+  - Vegetarian
+  - Japanese
+  - Quick
 title: Miso Soup
 ---
 

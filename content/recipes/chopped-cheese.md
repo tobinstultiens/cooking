@@ -1,7 +1,7 @@
 ---
-tags: 
-- GroundBeef
-- Sandwich
+tags:
+  - Beef
+  - American
 title: Chopped cheese
 ---
 

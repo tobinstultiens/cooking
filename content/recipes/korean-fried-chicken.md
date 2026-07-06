@@ -1,4 +1,8 @@
 ---
+tags:
+  - Chicken
+  - Korean
+  - Spicy
 title: Korean Fried Chicken
 ---
 

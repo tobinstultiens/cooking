@@ -1,4 +1,7 @@
 ---
+tags:
+  - Vegetarian
+  - Greek
 title: Flatbread
 ---
 

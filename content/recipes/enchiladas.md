@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - Mexican
 title: Enchiladas
 ---
 

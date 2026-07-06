@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - Chinese
 title: Sweet And Sour Chicken
 ---
 

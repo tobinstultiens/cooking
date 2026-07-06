@@ -37,8 +37,24 @@ There are no tests, linters, or build steps beyond Hugo itself.
   Markdown. The house style is a `Serving:` line, then `Ingredients:` / sub-ingredient
   groups (`Sauce Ingredients:`, `Toppings:`) / `Steps:` as bulleted lists. Match the style
   of a neighboring file rather than inventing new front-matter fields.
-- Taxonomies `categories`, `time`, and `tags` are configured (`config.toml`) but largely
-  unused in existing content — don't assume they're required.
+- Taxonomies `categories` and `time` are configured (`config.toml`) but unused — don't
+  assume they're required.
+
+## Tags
+
+- Every recipe carries `tags:` drawn from a controlled, three-axis vocabulary defined in
+  `data/recipetags.yaml` (the single source of truth): **protein/base** (Chicken, Beef, …),
+  **cuisine** (Mexican, Japanese, …), and **dietary/attribute** (Spicy, Vegan, Quick, …).
+  Dish type is intentionally *not* a tag axis — the section folders already capture it. Tags
+  are flat Title-Case terms; a recipe typically gets 1 protein + 1 cuisine + 0–2 dietary.
+  When adding a recipe, pick from the vocabulary (extend `data/recipetags.yaml` if genuinely
+  needed). Pure reference/tips pages (e.g. `baking/general-tips.md`) may stay untagged.
+- Tags drive three project-level overrides (theme is untouched): the homepage
+  `{{<recipe-filter>}}` shortcode (`layouts/shortcodes/recipe-filter.html`) renders clickable
+  chips that filter recipes client-side; `layouts/partials/page-metadata.html` shows tag chips
+  on every page linking to Hugo's `/tags/<name>` pages; and `assets/search/data.json` folds
+  tags into the indexed search `content` so they're findable (the bundled flexsearch hardcodes
+  its index fields, so tags can't be a separate search field).
 
 ## Rendering notes
 

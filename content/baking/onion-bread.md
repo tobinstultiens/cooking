@@ -1,4 +1,6 @@
 ---
+tags:
+  - Vegetarian
 title: Onion Bread
 ---
 

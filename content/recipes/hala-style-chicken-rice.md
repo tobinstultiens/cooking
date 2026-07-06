@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - Middle Eastern
 title: Hala Style Chicken Rice
 ---
 

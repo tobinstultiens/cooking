@@ -1,4 +1,8 @@
 ---
+tags:
+  - Beef
+  - Pork
+  - Italian
 title: Spaghetti bolognese
 ---
 

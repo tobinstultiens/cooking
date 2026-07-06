@@ -1,4 +1,7 @@
 ---
+tags:
+  - Pork
+  - Mexican
 title: Carnitas
 ---
 

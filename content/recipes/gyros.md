@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - Greek
 title: Gyros
 ---
 

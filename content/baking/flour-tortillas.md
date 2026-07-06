@@ -1,7 +1,7 @@
 ---
-tags: 
-- Bread
-- Mexican
+tags:
+  - Vegetarian
+  - Mexican
 title: Tortillas
 ---
 

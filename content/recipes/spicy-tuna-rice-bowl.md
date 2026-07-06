@@ -1,8 +1,9 @@
 ---
 tags:
-- Spicy
-- Tuna
-- Rice Bowl
+  - Fish
+  - Japanese
+  - Spicy
+  - Quick
 title: Spicy Tuna Rice Bowl
 ---
 

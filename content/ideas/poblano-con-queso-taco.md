@@ -1,4 +1,7 @@
 ---
+tags:
+  - Mexican
+  - Vegetarian
 title: Poblano Con Queso Taco
 ---
 

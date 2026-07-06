@@ -1,4 +1,7 @@
 ---
+tags:
+  - Fish
+  - Italian
 title: Ala Mario
 resources:
   - name: ala_mario-1

@@ -1,6 +1,7 @@
 ---
 tags:
-- Dough
+  - Vegetarian
+  - Italian
 title: Pizza Dough
 ---
 

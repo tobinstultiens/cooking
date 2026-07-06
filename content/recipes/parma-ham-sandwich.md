@@ -1,4 +1,7 @@
 ---
+tags:
+  - Pork
+  - Italian
 title: Parma Ham Sandwich
 ---
 

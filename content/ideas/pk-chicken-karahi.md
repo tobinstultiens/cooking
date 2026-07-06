@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - Indian
 title: Pk Chicken Karahi
 ---
 

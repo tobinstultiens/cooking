@@ -1,4 +1,6 @@
 ---
+tags:
+  - Italian
 title: Calzone
 ---
 

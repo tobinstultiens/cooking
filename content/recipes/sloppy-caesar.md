@@ -1,8 +1,7 @@
 ---
+tags:
+  - Fish
 title: Sloppy Caesar
-tags: 
-- Salad
-- Fish
 ---
 
 Ingredients:

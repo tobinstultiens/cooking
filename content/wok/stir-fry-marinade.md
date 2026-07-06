@@ -1,4 +1,6 @@
 ---
+tags:
+  - Chinese
 title: Stir fry marinade.
 ---
 This is  a basic stiry fry marinade for any meat. This is sourced from Kenji's book The wok.

@@ -1,4 +1,8 @@
 ---
+tags:
+  - Beef
+  - Korean
+  - Spicy
 title: Spicy Sesame Rice Bowl
 ---
 

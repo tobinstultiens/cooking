@@ -1,4 +1,7 @@
 ---
+tags:
+  - Chicken
+  - American
 title: Fried Chicken Sandwich
 ---
 

@@ -1,4 +1,6 @@
 ---
+tags:
+  - Vegetarian
 title: Cheese Dip
 ---
 

@@ -1,4 +1,7 @@
 ---
+tags:
+  - Beef
+  - Chinese
 title: Sesame Beef
 ---
 

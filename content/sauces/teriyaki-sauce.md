@@ -1,4 +1,7 @@
 ---
+tags:
+  - Vegetarian
+  - Japanese
 title: Teriyaki Sauce
 ---
 

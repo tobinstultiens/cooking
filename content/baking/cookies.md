@@ -1,6 +1,6 @@
 ---
 tags:
-- Chocolate
+  - Vegetarian
 title: Cookies
 ---
 

@@ -1,8 +1,7 @@
 ---
+tags:
+  - Vegan
 title: Flespompoen puree
-tags: 
-- Pumpkin
-- Vegetables
 ---
 
 Ingredients:

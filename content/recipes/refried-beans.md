@@ -1,7 +1,6 @@
 ---
-tags: 
-- Vegan
-- Beans
+tags:
+  - Mexican
 title: Refried Beans
 ---
 

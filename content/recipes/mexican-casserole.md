@@ -1,4 +1,7 @@
 ---
+tags:
+  - Beef
+  - Mexican
 title: Mexican Casserole
 ---
 

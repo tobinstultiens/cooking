@@ -1,4 +1,6 @@
 ---
+tags:
+  - Vegan
 title: Pickled Onions
 ---
 

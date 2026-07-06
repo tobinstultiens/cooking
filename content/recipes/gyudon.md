@@ -1,4 +1,7 @@
 ---
+tags:
+  - Beef
+  - Japanese
 title: Gyudon
 ---
 

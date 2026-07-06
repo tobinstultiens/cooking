@@ -1,4 +1,8 @@
 ---
+tags:
+  - Chicken
+  - Thai
+  - Spicy
 title: Spicy Thai Basil Chicken
 ---
 

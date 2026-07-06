@@ -1,8 +1,7 @@
 ---
 tags:
-- Dough
-- Bread
-- Indian
+  - Vegetarian
+  - Indian
 title: Roti
 ---
 

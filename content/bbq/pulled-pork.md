@@ -1,7 +1,7 @@
 ---
-tags: 
-- Pork
-- Smoked
+tags:
+  - Pork
+  - American
 title: Pulled Pork BBQ
 ---
 

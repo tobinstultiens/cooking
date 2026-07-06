@@ -1,4 +1,8 @@
 ---
+tags:
+  - Vegetarian
+  - American
+  - Spicy
 title: Creamy Buffalo
 ---
 

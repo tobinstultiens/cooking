@@ -1,4 +1,7 @@
 ---
+tags:
+  - Vegan
+  - Mexican
 title: Salsa
 ---
 

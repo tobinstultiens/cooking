@@ -1,4 +1,7 @@
 ---
+tags:
+  - Vegetarian
+  - Italian
 title: Focaccia Bread
 ---
 

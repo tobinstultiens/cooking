@@ -1,4 +1,6 @@
 ---
+tags:
+  - Mexican
 title: Chicken burrito
 ---
 

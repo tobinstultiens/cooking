@@ -1,4 +1,6 @@
 ---
+tags:
+  - Japanese
 title: Pimp My Noodles
 ---
 

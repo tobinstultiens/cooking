@@ -1,4 +1,8 @@
 ---
+tags:
+  - Chicken
+  - Indian
+  - Spicy
 title: Kathi Roll
 ---
 
