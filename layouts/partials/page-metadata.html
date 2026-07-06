@@ -1,0 +1,32 @@
+{{- $showPageLastmod := (or (default false .Page.Params.geekdocPageLastmod) (default false .Site.Params.geekdocPageLastmod)) -}}
+
+{{- if $showPageLastmod -}}
+<span class="flex align-center no-wrap">
+    <svg class="gdoc-icon gdoc_date"><use xlink:href="#gdoc_date"></use></svg>
+    <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+        {{ if .Lastmod.After (.Date.AddDate 0 0 1) }}
+        {{ i18n "posts_update_prefix" }}
+        {{ end }}
+        {{ .Lastmod.Format "Jan 2, 2006" }}
+    </time>
+</span>
+{{- end -}}
+
+{{- /* Render tag chips linking to their /tags/<name> pages. */ -}}
+{{- with .Params.tags -}}
+<span class="flex flex-wrap align-center gdoc-post__meta" style="gap: 0.35rem; margin-top: 0.25rem;">
+  <svg class="gdoc-icon gdoc_bookmark"><use xlink:href="#gdoc_bookmark"></use></svg>
+  {{- range sort . -}}
+    {{- $name := . -}}
+    {{- with $.Site.GetPage (printf "/tags/%s" ($name | urlize)) -}}
+      <span class="gdoc-post__tag gdoc-button gdoc-button--regular">
+        <a class="gdoc-button__link" href="{{ .RelPermalink }}" title="{{ i18n "posts_tagged_with" $name }}">{{ $name }}</a>
+      </span>
+    {{- else -}}
+      <span class="gdoc-post__tag gdoc-button gdoc-button--regular">
+        <span class="gdoc-button__link">{{ $name }}</span>
+      </span>
+    {{- end -}}
+  {{- end -}}
+</span>
+{{- end -}}

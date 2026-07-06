@@ -1,0 +1,30 @@
+# Controlled tag vocabulary, grouped by axis.
+# Single source of truth for the homepage recipe-filter chips.
+# Tags are flat Title-Case terms (Hugo taxonomy is flat); the grouping here is
+# only used to organise the filter UI. Add new terms in Title Case.
+Protein:
+  - Chicken
+  - Beef
+  - Pork
+  - Lamb
+  - Fish
+  - Seafood
+  - Egg
+  - Tofu
+Cuisine:
+  - Mexican
+  - Indian
+  - Japanese
+  - Korean
+  - Chinese
+  - Thai
+  - Greek
+  - Italian
+  - American
+  - Dutch
+  - Middle Eastern
+Dietary:
+  - Spicy
+  - Vegetarian
+  - Vegan
+  - Quick

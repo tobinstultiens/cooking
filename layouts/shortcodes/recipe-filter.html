@@ -1,0 +1,113 @@
+{{- /* Interactive recipe filter for the homepage.
+       Renders chips (grouped by axis via data/recipetags.yaml) that filter a list of
+       every tagged recipe client-side. Self-contained: inline CSS + JS. */ -}}
+
+{{- $tagged := where .Site.RegularPages "Params.tags" "!=" nil -}}
+
+<div class="recipe-filter" id="recipe-filter">
+  <style>
+    .recipe-filter__chips { margin: 0 0 1.2rem; }
+    .recipe-filter__group { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.4rem; margin-bottom: 0.5rem; }
+    .recipe-filter__label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.6; min-width: 4.5rem; }
+    .recipe-filter__chip {
+      cursor: pointer; border: 1px solid var(--button-border-color); background: var(--button-background);
+      color: var(--body-font-color); border-radius: 1rem; padding: 0.15rem 0.7rem; font-size: 0.85rem;
+      line-height: 1.6; user-select: none; transition: background 0.12s, color 0.12s, border-color 0.12s;
+    }
+    .recipe-filter__chip .count { opacity: 0.5; font-size: 0.75rem; margin-left: 0.25rem; }
+    .recipe-filter__chip:hover { border-color: var(--accent-color); }
+    .recipe-filter__chip.is-active { background: var(--accent-color); border-color: var(--accent-color); color: #fff; }
+    .recipe-filter__chip.is-active .count { opacity: 0.8; }
+    .recipe-filter__bar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem; }
+    .recipe-filter__count { font-size: 0.85rem; opacity: 0.7; }
+    .recipe-filter__clear { cursor: pointer; font-size: 0.85rem; background: none; border: none; color: var(--link-color); padding: 0; }
+    .recipe-filter__clear[hidden] { display: none; }
+    .recipe-filter__list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0.4rem 1.2rem; }
+    .recipe-filter__item.is-hidden { display: none; }
+    .recipe-filter__item a { font-weight: 500; }
+    .recipe-filter__section { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; opacity: 0.45; margin-left: 0.4rem; }
+    .recipe-filter__empty { opacity: 0.6; font-style: italic; }
+    .recipe-filter__empty[hidden] { display: none; }
+  </style>
+
+  <div class="recipe-filter__chips">
+    {{- range $axis, $tags := hugo.Data.recipetags -}}
+      {{- /* Keep only vocabulary terms that are actually used by a recipe. GetPage is
+             case-insensitive, so it resolves regardless of disablePathToLower. */ -}}
+      {{- $used := slice -}}
+      {{- range $t := $tags -}}
+        {{- with $.Site.GetPage (printf "/tags/%s" ($t | urlize)) -}}
+          {{- $used = $used | append (dict "name" $t "slug" ($t | urlize) "count" (len .Pages)) -}}
+        {{- end -}}
+      {{- end -}}
+      {{- with $used -}}
+        <div class="recipe-filter__group">
+          <span class="recipe-filter__label">{{ $axis }}</span>
+          {{- range . -}}
+            <button type="button" class="recipe-filter__chip" data-tag="{{ .slug }}">{{ .name }}<span class="count">{{ .count }}</span></button>
+          {{- end -}}
+        </div>
+      {{- end -}}
+    {{- end -}}
+  </div>
+
+  <div class="recipe-filter__bar">
+    <span class="recipe-filter__count" id="recipe-filter-count">{{ len $tagged }} recipes</span>
+    <button type="button" class="recipe-filter__clear" id="recipe-filter-clear" hidden>Clear filters</button>
+  </div>
+
+  <ul class="recipe-filter__list">
+    {{- range $tagged.ByTitle -}}
+      <li class="recipe-filter__item" data-tags="{{ delimit (apply .Params.tags "urlize" ".") " " }}">
+        <a href="{{ .RelPermalink }}">{{ partial "utils/title" . }}</a>
+        <span class="recipe-filter__section">{{ with .Parent }}{{ partial "utils/title" . }}{{ end }}</span>
+      </li>
+    {{- end -}}
+  </ul>
+  <p class="recipe-filter__empty" hidden>No recipes match the selected tags.</p>
+</div>
+
+<script>
+(function () {
+  var root = document.getElementById("recipe-filter");
+  if (!root) return;
+  var chips = Array.prototype.slice.call(root.querySelectorAll(".recipe-filter__chip"));
+  var items = Array.prototype.slice.call(root.querySelectorAll(".recipe-filter__item"));
+  var countEl = document.getElementById("recipe-filter-count");
+  var clearEl = document.getElementById("recipe-filter-clear");
+  var emptyEl = root.querySelector(".recipe-filter__empty");
+  var total = items.length;
+
+  function activeTags() {
+    return chips.filter(function (c) { return c.classList.contains("is-active"); })
+                .map(function (c) { return c.dataset.tag; });
+  }
+
+  function apply() {
+    var active = activeTags();
+    var shown = 0;
+    items.forEach(function (item) {
+      var tags = (item.dataset.tags || "").split(" ");
+      // Union: show when no filter is active, or the recipe carries any active tag.
+      var match = active.length === 0 || active.some(function (t) { return tags.indexOf(t) !== -1; });
+      item.classList.toggle("is-hidden", !match);
+      if (match) shown++;
+    });
+    countEl.textContent = shown + (shown === 1 ? " recipe" : " recipes") +
+      (active.length ? " of " + total : "");
+    clearEl.hidden = active.length === 0;
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  chips.forEach(function (chip) {
+    chip.addEventListener("click", function () {
+      chip.classList.toggle("is-active");
+      apply();
+    });
+  });
+  clearEl.addEventListener("click", function () {
+    chips.forEach(function (c) { c.classList.remove("is-active"); });
+    apply();
+  });
+})();
+</script>
