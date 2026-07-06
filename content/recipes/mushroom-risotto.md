@@ -2,6 +2,7 @@
 tags:
   - Vegetarian
   - Italian
+  - Creamy
 title: Mushroom Risotto
 ---
 

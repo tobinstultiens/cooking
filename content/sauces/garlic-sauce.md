@@ -1,6 +1,7 @@
 ---
 tags:
   - Vegetarian
+  - Garlicky
 title: Garlic Sauce
 ---
 

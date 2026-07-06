@@ -1,6 +1,7 @@
 ---
 tags:
   - Vegetarian
+  - Nutty
 title: Sate
 ---
 

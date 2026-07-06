@@ -28,3 +28,11 @@ Dietary:
   - Vegetarian
   - Vegan
   - Quick
+# Flavour/character — optional, sparse. Apply only when a flavour clearly dominates.
+Flavor:
+  - Chocolate
+  - Fruit
+  - Cheesy
+  - Creamy
+  - Nutty
+  - Garlicky

@@ -3,6 +3,7 @@ tags:
   - Indian
   - Vegan
   - Spicy
+  - Fruit
 title: Mango chutney
 ---
 

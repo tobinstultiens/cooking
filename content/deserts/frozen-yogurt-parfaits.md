@@ -1,6 +1,8 @@
 ---
 tags:
   - Vegetarian
+  - Fruit
+  - Creamy
 title: Frozen Yogurt Parfaits
 ---
 

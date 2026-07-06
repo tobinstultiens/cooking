@@ -1,6 +1,7 @@
 ---
 tags:
   - Chicken
+  - Creamy
 title: Chicken Boursin
 ---
 

@@ -2,6 +2,8 @@
 tags:
   - Vegetarian
   - Italian
+  - Cheesy
+  - Garlicky
 title: Cheesy Garlic Bread
 ---
 

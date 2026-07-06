@@ -3,6 +3,7 @@ tags:
   - Vegetarian
   - American
   - Spicy
+  - Creamy
 title: Creamy Buffalo
 ---
 

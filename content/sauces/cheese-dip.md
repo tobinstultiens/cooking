@@ -1,6 +1,7 @@
 ---
 tags:
   - Vegetarian
+  - Cheesy
 title: Cheese Dip
 ---
 

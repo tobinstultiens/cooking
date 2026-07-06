@@ -1,9 +1,11 @@
-{{- /* Interactive recipe filter for the homepage.
-       Renders chips (grouped by axis via data/recipetags.yaml) that filter a list of
-       every tagged recipe client-side. Self-contained: inline CSS + JS. */ -}}
+{{- /* Interactive recipe filter. Renders chips (grouped by axis via data/recipetags.yaml)
+       that filter a list of tagged recipes client-side. Self-contained: inline CSS + JS.
+       Scope follows the page it is placed on: on the home page it covers every recipe;
+       on a section's _index.md it covers only that section's recipes. */ -}}
 
-{{- $tagged := where .Site.RegularPages "Params.tags" "!=" nil -}}
+{{- $tagged := where .Page.RegularPagesRecursive "Params.tags" "!=" nil -}}
 
+{{- if ge (len $tagged) 2 -}}
 <div class="recipe-filter" id="recipe-filter">
   <style>
     .recipe-filter__chips { margin: 0 0 1.2rem; }
@@ -32,12 +34,13 @@
 
   <div class="recipe-filter__chips">
     {{- range $axis, $tags := hugo.Data.recipetags -}}
-      {{- /* Keep only vocabulary terms that are actually used by a recipe. GetPage is
-             case-insensitive, so it resolves regardless of disablePathToLower. */ -}}
+      {{- /* Keep only vocabulary terms actually used within the current scope, with
+             counts scoped to it (so a section shows only its own tags). */ -}}
       {{- $used := slice -}}
       {{- range $t := $tags -}}
-        {{- with $.Site.GetPage (printf "/tags/%s" ($t | urlize)) -}}
-          {{- $used = $used | append (dict "name" $t "slug" ($t | urlize) "count" (len .Pages)) -}}
+        {{- $n := len (where $tagged "Params.tags" "intersect" (slice $t)) -}}
+        {{- if gt $n 0 -}}
+          {{- $used = $used | append (dict "name" $t "slug" ($t | urlize) "count" $n) -}}
         {{- end -}}
       {{- end -}}
       {{- with $used -}}
@@ -111,3 +114,4 @@
   });
 })();
 </script>
+{{- end -}}

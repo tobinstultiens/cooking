@@ -49,9 +49,12 @@ There are no tests, linters, or build steps beyond Hugo itself.
   are flat Title-Case terms; a recipe typically gets 1 protein + 1 cuisine + 0–2 dietary.
   When adding a recipe, pick from the vocabulary (extend `data/recipetags.yaml` if genuinely
   needed). Pure reference/tips pages (e.g. `baking/general-tips.md`) may stay untagged.
-- Tags drive three project-level overrides (theme is untouched): the homepage
-  `{{<recipe-filter>}}` shortcode (`layouts/shortcodes/recipe-filter.html`) renders clickable
-  chips that filter recipes client-side; `layouts/partials/page-metadata.html` shows tag chips
+- Tags drive three project-level overrides (theme is untouched): the `{{<recipe-filter>}}`
+  shortcode (`layouts/shortcodes/recipe-filter.html`) renders clickable chips that filter
+  recipes client-side. It is placed on the home `_index.md` (covers every recipe) and on each
+  section `_index.md` above `{{<toc-tree>}}` (scopes to that section via
+  `.Page.RegularPagesRecursive`, with chip counts local to the section); it self-hides on
+  sections with fewer than 2 tagged recipes. Also, `layouts/partials/page-metadata.html` shows tag chips
   on every page linking to Hugo's `/tags/<name>` pages; and `assets/search/data.json` folds
   tags into the indexed search `content` so they're findable (the bundled flexsearch hardcodes
   its index fields, so tags can't be a separate search field).
