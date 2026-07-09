@@ -8,19 +8,22 @@ title: Mushroom Risotto
 
 # Mushroom risotto done with mushroom stock
 ## Ingredients
-- 2 cups chicken broth, or as needed
-- 2 cups mushroom stock or, or as needed
-- 3 tablespoons olive oil, divided
-- portobello mushrooms, thinly sliced
-- white mushrooms, thinly sliced
-- 15-30 grams of dried mushroom
-- 2 medium shallots, diced
-- 200 gram Arborio rice
-- 118 ml dry white wine
-- 4 tablespoons butter
-- 3 tablespoons finely chopped chives
-- ⅓ cup freshly grated Parmesan cheese
-- sea salt and freshly ground black pepper to taste
+```ingredients
+servings: 4
+2 | cup | chicken broth, or as needed
+2 | cup | mushroom stock, or as needed
+3 | tbsp | olive oil, divided
+| | portobello mushrooms, thinly sliced
+| | white mushrooms, thinly sliced
+20 | g | dried mushroom
+2 | shallot | medium, diced
+200 | g | Arborio rice
+118 | ml | dry white wine
+4 | tbsp | butter
+3 | tbsp | finely chopped chives
+1/3 | cup | freshly grated Parmesan cheese
+| | sea salt and freshly ground black pepper, to taste
+```
 ## Steps
 1. First make the mushrooms stock. Combine the dried mushrooms and a few bay leaves with about 2 cups (473mL) water per portion, a big pinch of salt per portion, bring to a boil then reduce to a simmer. Simmer for 30-60 minutes, strain out the solids and discard them. (If there was a lot of sand on the dry mushrooms, you can either pass the stock through a coffee filter or just let the sand settle on the bottom and pour off everything but the last little bit.)
 

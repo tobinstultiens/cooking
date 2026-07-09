@@ -8,19 +8,22 @@ title: Kathi Roll
 
 # Chicken Kathi Roll With Green Chutney
 [Link](https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-kathi-rolls)
-Marinated Chicken:
-- 6 Boneless, skinless chicken thighs
-- 10 g Salt
-- 3 g MSG
-- Juice from 1/2 lime
-- (4 g) Spoonful of ground cumin
-- (2 g) Spoonful Kashmiri chili powder (or cayenne)
-- (1 g) 1/2 Spoonful of turmeric
-- 15 cranks black pepper
-- 4 cloves garlic, crushed
-- 1-inch knob of ginger, crushed
-- 10 g tomato paste
-- 50 g plain yogurt
+```ingredients
+servings: 6
+# Marinated Chicken
+6 | chicken thigh | (boneless, skinless)
+10 | g | salt
+3 | g | MSG
+| | juice from 1/2 lime
+4 | g | ground cumin
+2 | g | Kashmiri chili powder (or cayenne)
+1 | g | turmeric
+| | 15 cranks black pepper
+4 | clove | garlic, crushed
+| | 1-inch knob of ginger, crushed
+10 | g | tomato paste
+50 | g | plain yogurt
+```
 
 INSTRUCTIONS:
 

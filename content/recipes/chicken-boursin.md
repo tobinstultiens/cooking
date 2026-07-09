@@ -5,11 +5,13 @@ tags:
 title: Chicken Boursin
 ---
 
-Ingredients:
-- can of Champignon soup
-- Water
-- One package of boursin
-- 500 gram chicken breast in small cubes
+```ingredients
+servings: 3
+| | can of champignon soup
+| | water
+1 | package | boursin
+500 | g | chicken breast, in small cubes
+```
 
 Steps:
 1) First cook your chicken until it's brown.

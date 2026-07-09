@@ -6,16 +6,18 @@ title: Yogurt Marinated Chicken Thighs
 
 [Link](https://diethood.com/yogurt-marinated-chicken-thighs/)
 
-Ingredients:
-- 1 cup nonfat plain yogurt
-- 1 tablespoon extra virgin olive oil
-- 1 tablespoon curry powder
-- 1 tablespoon chili powder
-- 1/2 tablespoon cumin
-- 1 teaspoon garlic powder
-- 1 teaspoon onion powder
-- 1 teaspoon salt
-- 8 (about 2 pounds, total) boneless, skinless chicken thighs
+```ingredients
+servings: 8
+1 | cup | nonfat plain yogurt
+1 | tbsp | extra-virgin olive oil
+1 | tbsp | curry powder
+1 | tbsp | chili powder
+1/2 | tbsp | cumin
+1 | tsp | garlic powder
+1 | tsp | onion powder
+1 | tsp | salt
+8 | chicken thigh | (boneless, skinless; ~2 lb total)
+```
 
 Steps
 1. In a large mixing bowl, combine yogurt, oil, curry powder, chili powder, cumin, garlic powder, onion powder, and salt; mix to combine.

@@ -6,17 +6,19 @@ tags:
 title: Korean Fried Chicken
 ---
 
-Ingredients:
-- 2 pounds boneless skinless chicken thighs, cut into 1 inch pieces
-- 1/4 cup flour
-- 2 eggs
-- 1/2 cup cornstarch
-- oil for frying
-- 1/3 cup Korean gojuchang red pepper paste
-- 3 tablespoons rice vinegar
-- 1/4 cup brown sugar
-- 2 tablespoons soy sauce
-- 1 teaspoon sesame seeds for garnish
+```ingredients
+servings: 4
+2 | lb | boneless skinless chicken thighs, cut into 1-inch pieces
+1/4 | cup | flour
+2 | eggs |
+1/2 | cup | cornstarch
+| | oil for frying
+1/3 | cup | Korean gochujang red pepper paste
+3 | tbsp | rice vinegar
+1/4 | cup | brown sugar
+2 | tbsp | soy sauce
+1 | tsp | sesame seeds, for garnish
+```
 
 Steps:
 1) Toss the chicken in the flour, then dredge into the egg and finally coat in the cornstarch.

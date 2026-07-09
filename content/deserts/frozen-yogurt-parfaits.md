@@ -8,17 +8,19 @@ title: Frozen Yogurt Parfaits
 
 [Link](https://www.allrecipes.com/recipe/8395550/make-ahead-frozen-yogurt-parfaits/)
 
-Ingredients:
-- For the Parfaits:
-- 1 ½ cups raspberries, rinsed and drained
-- ½ cup white sugar
-- 1 cup blueberries, rinsed and drained
-- 1 ½ cups granola
-- For the Frozen Yogurt:
-- 2 cups full-fat plain Greek yogurt
-- 1 teaspoon vanilla extract
-- 1 teaspoon lemon zest
-- ½ cup white sugar
+```ingredients
+servings: 4
+# Parfaits
+1 1/2 | cup | raspberries, rinsed and drained
+1/2 | cup | white sugar
+1 | cup | blueberries, rinsed and drained
+1 1/2 | cup | granola
+# Frozen Yogurt
+2 | cup | full-fat plain Greek yogurt
+1 | tsp | vanilla extract
+1 | tsp | lemon zest
+1/2 | cup | white sugar
+```
 
 Steps:
 1. Combine raspberries and ½ cup white sugar in a bowl. Crush with a potato masher into a puree. Cover and let sit out for 1 hour.

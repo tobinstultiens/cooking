@@ -8,17 +8,18 @@ title: Tomato Sauce
 # Marcella Hazan's 3 Ingredient Tomato Sauce
 [Link](https://www.ethanchlebowski.com/cooking-techniques-recipes/marcella-hazans-3-ingredient-tomato-sauce)
 
-Ingredients:
-- 1 28 oz can quality whole peeled tomatoes
-- 5 TBSP of butter
-- 1 onion
-- Coarse Kosher Salt
-
-To serve with pasta:
-- Fresh basil, chiffonade
-- Small handful of Parmigiano Reggiano
-- 1/2 lb Bucatini
-- 1/4 cup reserved pasta water
+```ingredients
+servings: 4
+1 | can | quality whole peeled tomatoes (28 oz)
+5 | tbsp | butter
+1 | onion |
+| | coarse kosher salt
+# To Serve With Pasta
+| | fresh basil, chiffonade
+| | small handful of Parmigiano Reggiano
+1/2 | lb | bucatini
+1/4 | cup | reserved pasta water
+```
 
 Steps:
 Make Ahead Method:

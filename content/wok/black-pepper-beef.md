@@ -6,27 +6,27 @@ title: Black Pepper Beef
 ---
 
 [Link](https://schoolofwok.co.uk/tips-and-recipes/black-pepper-beef)
-Ingredients:
-- 350g steak, sliced into strips against the grain
-- 1 onion, julienned
-- 1/2 red pepper, julienned
-- 1 spring onion
-- 1/4 of a thumb size piece of ginger
-
-THE MARINADE
-- 1 teaspoon cornflour (cornstarch)
-- 1 teaspoon light soy sauce
-- 1 teaspoon pure sesame oil
-
-THE SAUCE
-- 1/4 teaspoon salt
-- 1/2 teaspoon sugar
-- 1/2 teaspoon crushed black pepper
-- 1 tablespoon Lee Kum Kee black pepper sauce
-- 50 ml chicken stock
-- 1 tablespoon light soy sauce
-- 1 tablespoon oyster sauce
-- 2 teaspoons Shaoxing rice wine
+```ingredients
+servings: 2
+350 | g | steak, sliced into strips against the grain
+1 | onion | julienned
+1/2 | red pepper | julienned
+1 | spring onion |
+| | 1/4 thumb-size piece of ginger
+# The Marinade
+1 | tsp | cornflour (cornstarch)
+1 | tsp | light soy sauce
+1 | tsp | pure sesame oil
+# The Sauce
+1/4 | tsp | salt
+1/2 | tsp | sugar
+1/2 | tsp | crushed black pepper
+1 | tbsp | Lee Kum Kee black pepper sauce
+50 | ml | chicken stock
+1 | tbsp | light soy sauce
+1 | tbsp | oyster sauce
+2 | tsp | Shaoxing rice wine
+```
 
 Preparation:
 1) Remove any rind or fat from the steak, then slice thinly. Tenderize by bashing them with a cleaver or meat hammer, creating a large surface area for quick cooking.

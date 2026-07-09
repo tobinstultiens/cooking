@@ -8,19 +8,23 @@ title: Mango chutney
 ---
 
 # Ingredients:
-- Ongeveer 6 tot 8 (over)rijpe mango’s, geschild en in blokjes gesneden (grootte die je zelf wenselijk vindt voor chutney 😉)
-- Eetlepel verse gember, fijngesneden
-- Ongeveer 3 tot 4 teentjes knoflook, fijngesneden
-- Ongeveer 2 chilipepers, in halve ringetjes (mag meer als je van pittig houdt 😊)
-- Gemalen koriander, 1 grote theelepel
-- Gemalen komijn, 1 kleine theelepel
-- Gemalen kurkuma, 1 kleine theelepel
-- Gemalen kardemom, 1 kleine theelepel
-- Gemalen kruidnagel, 1 halve theelepel
-- Gemalen kaneel, 1 halve á 1 kleine theelepel
-- Snuf zout
-- Ongeveer 200 gram suiker (naar smaak kan je hem zoeter maken, hangt ook van de mango’s af)
-- 150 á 200 milliliter witte wijnazijn
+
+```ingredients
+servings: 8
+7 | mango | (over)rijp, geschild en in blokjes
+1 | eetlepel | verse gember, fijngesneden
+4 | teentje | knoflook, fijngesneden
+2 | chilipeper | in halve ringetjes (meer mag)
+1 | theelepel | gemalen koriander
+1 | theelepel | gemalen komijn
+1 | theelepel | gemalen kurkuma
+1 | theelepel | gemalen kardemom
+1/2 | theelepel | gemalen kruidnagel
+1/2 | theelepel | gemalen kaneel
+| | snuf zout
+200 | g | suiker (naar smaak)
+175 | ml | witte wijnazijn
+```
 
 # Steps:
 In een pan met een beetje (neutrale) olie de gember, knoflook en chili enkele minuten licht bakken, vervolgens de specerijen (zout nog niet) toevoegen en nog een minuutje bakken.

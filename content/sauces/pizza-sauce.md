@@ -7,17 +7,19 @@ title: Pizza Sauce
 
 [Link](https://www.seriouseats.com/new-york-style-pizza-sauce)
 
-Ingredients:
-- 1 ( 28- ounce) can whole peeled tomatoes
-- 1 tablespoon (15ml) extra-virgin olive oil
-- 1 tablespoon (15ml) unsalted butter
-- 2 medium cloves garlic, grated on microplane grater (about 2 teaspoons)
-- 1 teaspoon dried oregano
-- Pinch red pepper flakes
-- Kosher salt
-- 1 medium yellow onion, peeled and split in half
-- 2 (6-inch) sprigs fresh basil with leaves attached
-- 1 teaspoon sugar
+```ingredients
+servings: 8
+1 | can | whole peeled tomatoes (28 oz)
+15 | ml | extra-virgin olive oil
+15 | g | unsalted butter
+2 | clove | garlic, grated (about 2 tsp)
+1 | tsp | dried oregano
+| | pinch of red pepper flakes
+| | kosher salt
+1 | onion | medium yellow, halved
+2 | sprig | fresh basil (6-inch)
+1 | tsp | sugar
+```
 
 Steps:
 1. Process tomatoes and their juice through food mill, pulse in food processor until puréed, or purée with immersion blender. Purée should not be completely smooth, but should have no chunks larger than 1/16th of an inch. Set tomatoes aside.

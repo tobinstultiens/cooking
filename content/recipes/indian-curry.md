@@ -6,28 +6,28 @@ tags:
 title: New Delhi Chicken Curry
 ---
 
-Ingredients:
-- 2 Rode uien
-- 2 Tomaten
-- 4 Kippen dijen (Maakt niet uit of het in stukjes is of niet zolang de pan niet overvol raakt)
-- Gember en knoflook paste
-- Tomaten puree
-
-Spices:
-- Ground Turmeric
-- Dried fenugreek leaves
-- Garam masala
-- Ground coriander
-- Red chile powder
-- Kashmiri chile powder
-
-Whole Spices:
-- 1x Cinnamon stick
-- 1x bay leaf
-- 2x Black Cardamom pods
-- 2x Green Cardamom pods
-- 4x Black peppercorns
-- 3x whole cloves (Kruidnagel)
+```ingredients
+servings: 4
+2 | rode ui |
+2 | tomaat |
+4 | kippendij | (in stukjes of heel)
+| | gember- en knoflookpasta
+| | tomatenpuree
+# Spices
+| | ground turmeric
+| | dried fenugreek leaves
+| | garam masala
+| | ground coriander
+| | red chile powder
+| | Kashmiri chile powder
+# Whole Spices
+1 | cinnamon stick |
+1 | bay leaf |
+2 | black cardamom pod |
+2 | green cardamom pod |
+4 | black peppercorn |
+3 | clove | whole (kruidnagel)
+```
 
 Steps:
 1. Marinate the chicken with turmeric.

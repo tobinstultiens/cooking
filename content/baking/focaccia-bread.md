@@ -7,22 +7,23 @@ title: Focaccia Bread
 
 This [video](https://www.youtube.com/watch?v=HTD-z1wd0tw&t=0s) seemed like an easy way to make this bread
 
-## Dough Ingredients:
-- 9 g Instant Yeast
-- 335 g Water (105-115 F)
-- 450 g Flour (Bread or All purpose)
-- 9 g Salt
-- 9 g Extra Virgin Olive Oil
-
-For Baking:
-- 20 g Extra Virgin Olive Oil
-- 20 g Water
-
-Topping Ideas:
-- Coarse Kosher Salt
-- Fresh Rosemary
-- Garlic
-- Chiles
+```ingredients
+servings: 8
+# Dough
+9 | g | instant yeast
+335 | g | water (105–115°F)
+450 | g | flour (bread or all-purpose)
+9 | g | salt
+9 | g | extra-virgin olive oil
+# For Baking
+20 | g | extra-virgin olive oil
+20 | g | water
+# Topping Ideas
+| | coarse kosher salt
+| | fresh rosemary
+| | garlic
+| | chiles
+```
 
 ## Instructions:
 1. Mix the ingredients

@@ -7,13 +7,16 @@ title: Salsa
 
 Got the recipe from this [video](https://www.youtube.com/watch?v=Upqp21Dm5vg).
 
-- 2-3 large, ripe tomatoes - firm, fragrant, preferably on the vine
-- 1 medium red onion
-- 1 Jalapeño or a small piece of habanero
-- Fresh garlic (1 clove)
-- salt to taste
-- Freshly ground pepper to taste
-- Scallions, aka green onions (one)
-- parsley (optional)
-- 1 red bell pepper (optional)
-- 1 mango (optional) - soft but not mushy to the touch
+```ingredients
+servings: 4
+3 | tomato | large, ripe (firm, preferably on the vine)
+1 | onion | medium red
+1 | jalapeño | (or a small piece of habanero)
+1 | clove | garlic
+| | salt to taste
+| | freshly ground pepper to taste
+1 | scallion | (green onion)
+| | parsley (optional)
+1 | bell pepper | red (optional)
+1 | mango | (optional, soft but not mushy)
+```

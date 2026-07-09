@@ -7,36 +7,33 @@ title: Ramen
 # Ramen
 For the theory, look into the book [The Ramen Lord Book of Ramen](/pdf/The Ramen_Lord Book of Ramen.pdf).
 The chicken shoyu build below is adapted from [this recipe](https://www.ethanchlebowski.com/cooking-techniques-recipes/chicken-shoyu-ramen).\\
-Serving: 4-8 bowls
-
 Ramen is built from a few components you can prep ahead, then assemble to taste.
 
-Broth Ingredients:
-- 1 chicken carcass, broken down (reserve the skin for the aroma oil)
-- Water, 2 parts to every 1 part bones by weight
-- 1 large knob fresh ginger (about a 3" piece), peeled
-
-Shoyu Tare Ingredients:
-- 300g soy sauce
-- 40g mirin
-- 10g kombu
-- 10g bonito flakes
-
-Scallion Aroma Oil Ingredients:
-- Chicken skins from 1 chicken
-- A splash of water
-- 2 cloves garlic
-- 1 bunch scallion whites
-
-Rolled Chicken Chashu Ingredients:
-- 2 deboned chicken thighs
-- Salt, to taste
-
-Noodles & Toppings:
-- Ramen noodles
-- Soft-boiled eggs
-- Scallion greens, thinly sliced
-- Pickled onions
+```ingredients
+servings: 6
+# Broth
+1 | chicken carcass | broken down (reserve skin for the aroma oil)
+| | water (2 parts per 1 part bones by weight)
+1 | knob | fresh ginger (about a 3" piece), peeled
+# Shoyu Tare
+300 | g | soy sauce
+40 | g | mirin
+10 | g | kombu
+10 | g | bonito flakes
+# Scallion Aroma Oil
+| | chicken skins from 1 chicken
+| | a splash of water
+2 | clove | garlic
+| | 1 bunch scallion whites
+# Rolled Chicken Chashu
+2 | chicken thigh | deboned
+| | salt, to taste
+# Noodles & Toppings
+| | ramen noodles
+| | soft-boiled eggs
+| | scallion greens, thinly sliced
+| | pickled onions
+```
 
 Steps:
 1) Start the broth: reserve the skin for the oil and the bones for stock. Weigh the bones and add twice their weight in water. Bring to a boil, skim, then simmer for 5 hours (stovetop or oven at 190°F/87°C).

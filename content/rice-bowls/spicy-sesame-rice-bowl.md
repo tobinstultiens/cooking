@@ -7,19 +7,21 @@ title: Spicy Sesame Rice Bowl
 ---
 
 [Link](https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/)
-Ingredients:
-- 1/3 c. Korean red pepper paste (gochujang)
-- 2 tbsp. toasted sesame oil
-- 1 tbsp. soy sauce
-- 1 tbsp. sugar
-- 3 cloves garlic, crushed with press
-- 1 lb. beef top round, cut against grain into very thin 2"-long slices
-- 12 oz. medium shiitake mushrooms, stemmed
-- 1 seedless (English) cucumber, thinly sliced
-- 1/4 c. rice vinegar
-- 5 oz. baby spinach
-- 6 c. cooked white rice, hot
-- Thinly sliced green onions, shredded carrots, kimchi and sesame seeds for serving
+```ingredients
+servings: 6
+1/3 | cup | Korean red pepper paste (gochujang)
+2 | tbsp | toasted sesame oil
+1 | tbsp | soy sauce
+1 | tbsp | sugar
+3 | clove | garlic, crushed
+1 | lb | beef top round, thinly sliced against the grain
+12 | oz | medium shiitake mushrooms, stemmed
+1 | cucumber | seedless (English), thinly sliced
+1/4 | cup | rice vinegar
+5 | oz | baby spinach
+6 | cup | cooked white rice, hot
+| | green onions, carrots, kimchi, sesame seeds for serving
+```
 
 Directions:
 1) In large bowl, whisk red pepper paste, sesame oil, soy sauce, sugar, garlic and 1/4 cup of water until smooth; set aside 1/2 cup of sauce. To bowl with remaining sauce, add beef and pinch salt, tossing to coat. Let stand at least 10 minutes or refrigerate up to overnight.

@@ -6,31 +6,32 @@ title: Enchiladas
 ---
 
 # Chicken Enchiladas :Chicken:Mexican:
-Ingredients:
-- 600 - 700 gram chicken
-- 1 onion, chopped
-- 1 cup shredded cheese
-- 1 tablespoon dried parsley
-- 1/2 teaspoon dried oregano
-- 1/2 teaspoon ground black pepper
-- 1/2 teaspoon salt (Optional)
-- 1 (15 ounce) can tomato sauce
-- 1/2 cup water
-- 1 tablespoon chili powder
-- 1 clove garlic, minced
-- 8 (10 inch) flour tortillas
-- 1 (12 ounce) jar taco sauce
-- 3/4 cup shredded cheese
-
-Ingredients Dip Sauce:
-- creme fraiche
-- 1 teaspoon kurkuma
-- 1 teaspoon dille
-- 1 teaspoon bieslook
-- 1 teaspoon peterselie
-- 2 teaspoon uitenpoeder
-- 1 teaspoon peper
-- 1 teaspoon zout
+```ingredients
+servings: 4
+650 | g | chicken
+1 | onion | chopped
+1 | cup | shredded cheese
+1 | tbsp | dried parsley
+1/2 | tsp | dried oregano
+1/2 | tsp | ground black pepper
+1/2 | tsp | salt (optional)
+1 | can | tomato sauce (15 oz)
+1/2 | cup | water
+1 | tbsp | chili powder
+1 | clove | garlic, minced
+8 | tortilla | flour (10-inch)
+1 | jar | taco sauce (12 oz)
+3/4 | cup | shredded cheese
+# Dip Sauce
+| | crème fraîche
+1 | tsp | kurkuma
+1 | tsp | dille
+1 | tsp | bieslook
+1 | tsp | peterselie
+2 | tsp | uienpoeder
+1 | tsp | peper
+1 | tsp | zout
+```
 
 Notes:
 - Maybe watch out with the chili powder on this one.

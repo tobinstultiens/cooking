@@ -7,15 +7,17 @@ title: Pizza Dough
 
 [Link](https://www.youtube.com/watch?v=SDpCzJw2xm4)
 
-Ingredients:
-- 530 ml (38 celsius) warm water
-- 12g sugar
-- 9g active dry yeast
-- 30 ml olive oil
-- 18 g kosher salt
-- 820 gr bread flour, plus potentially more for working the dough
-- additional oil for greasing the dough
-- cornmeal, semolina flour, or coarse-ground whole wheat flour for dusting
+```ingredients
+servings: 4
+530 | ml | warm water (38°C)
+12 | g | sugar
+9 | g | active dry yeast
+30 | ml | olive oil
+18 | g | kosher salt
+820 | g | bread flour, plus more for working the dough
+| | additional oil for greasing the dough
+| | cornmeal, semolina, or coarse whole-wheat flour for dusting
+```
 
 Important aim for between 65-60% hydration
 

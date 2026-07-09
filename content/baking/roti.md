@@ -5,11 +5,13 @@ tags:
 title: Roti
 ---
 
-Ingredients:
-- 300g Tarwebloem
-- 150g Water
-- 5g Zout
-- 5g Koolzaadolie
+```ingredients
+servings: 4
+300 | g | tarwebloem
+150 | g | water
+5 | g | zout
+5 | g | koolzaadolie
+```
 
 Steps:
 1. Mix bloem, water en zout samen.

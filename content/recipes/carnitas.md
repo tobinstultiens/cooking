@@ -8,14 +8,18 @@ title: Carnitas
 [link](https://www.youtube.com/watch?v=JRlmQdRN0G8)
 
 # Ingredients
-- 1 onions, divided
-- 3 pounds boneless pork shoulder, cut into 2-inch cubes
-- 1 tablespoon (8g) kosher salt, plus more to taste; for table salt, use half of the volume or an equal amount by weight
-- 1 medium orange
-- 6 cloves garlic, halved, divided
-- 2 bay leaves
-- 1 cinnamon stick, broken into three or four pieces
-- 1/4 cup (60ml) vegetable oil
+
+```ingredients
+servings: 8
+1 | onion | (divided)
+3 | lb | boneless pork shoulder, cut into 2-inch cubes
+8 | g | kosher salt (plus more to taste)
+1 | orange | (medium)
+6 | clove | garlic, halved and divided
+2 | bay leaves |
+1 | cinnamon stick | broken into 3–4 pieces
+1/4 | cup | vegetable oil
+```
 
 Steps:
 

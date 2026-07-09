@@ -8,17 +8,21 @@ title: Cookies
 # Chocolate Cookies
 [Link](https://www.youtube.com/watch?v=DPMUZAeI7no)
 ## Ingredients
-- 220g nice butter
-- 100g granulated sugar
-- 200g dark brown sugar
-- 2 large eggs + 1 yolk
-- 4g vanilla extract
-- 226g of 70% cacao nice baking chocolate (bars not chips)
-- 330g (or 2 1/3 cups) All purpose flour
-- 1/2 teas baking soda
-- 1/4 teas baking powder
-- 7g salt
-- flakey salt for topping
+```ingredients
+servings: 12
+220 | g | butter
+100 | g | granulated sugar
+200 | g | dark brown sugar
+2 | egg | (large)
+1 | yolk | (egg)
+4 | g | vanilla extract
+226 | g | 70% cacao baking chocolate (bars, not chips)
+330 | g | all-purpose flour
+1/2 | tsp | baking soda
+1/4 | tsp | baking powder
+7 | g | salt
+| | flakey salt for topping
+```
 
 
 ## Steps

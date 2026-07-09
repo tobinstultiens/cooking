@@ -10,12 +10,15 @@ title: Spicy Tuna Rice Bowl
 [Link](https://www.platingsandpairings.com/tuna-rice/)  
 
 Ingredients: 
-- 4 5-ounce can tuna (drained (oil packed tuna preferred))
-- 8 Tablespoons mayonnaise (Kewpie Japanese mayonnaise preferred)
-- 8 teaspoons sriracha
-- 4 teaspoon rice wine vinegar
-- 4 teaspoon toasted sesame oil
-- 2 teaspoon soy sauce
+```ingredients
+servings: 4
+4 | can | tuna, drained (5 oz, oil-packed preferred)
+8 | tbsp | mayonnaise (Kewpie preferred)
+8 | tsp | sriracha
+4 | tsp | rice wine vinegar
+4 | tsp | toasted sesame oil
+2 | tsp | soy sauce
+```
 
 Instructions:
 1. In a small bowl, combine the tuna, mayonnaise, sriracha, rice wine vinegar, sesame oil and soy sauce.

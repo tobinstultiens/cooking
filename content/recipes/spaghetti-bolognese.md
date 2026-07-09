@@ -6,20 +6,22 @@ tags:
 title: Spaghetti bolognese
 ---
 
-Ingredients:
-- 2 eetlepels olijfolie
-- 1,5 kleine/middelgrote wortel
-- 1 kleine ui
-- 300 g gemalen rundvlees (70-80%)
-- 300 g gemalen varkensvlees
-- 1/2 kop droge rode wijn
-- 2 eetlepels tomatenpuree
-- 400g tomaten gepeld blik
-- 1-2 hele laurierblaadjes
-- 80 g melk (2 % of volle melk)
-- zout en peper op smaak
-- 1 theelepel oregano
-- 1-2 teentjes knoflook
+```ingredients
+servings: 4
+2 | eetlepel | olijfolie
+1.5 | wortel | (klein/middelgroot)
+1 | ui | (klein)
+300 | g | gemalen rundvlees (70-80%)
+300 | g | gemalen varkensvlees
+1/2 | kop | droge rode wijn
+2 | eetlepel | tomatenpuree
+400 | g | tomaten (gepeld, blik)
+2 | laurierblaadjes | (heel)
+80 | g | melk (2% of volle melk)
+| | zout en peper op smaak
+1 | theelepel | oregano
+2 | teentje | knoflook
+```
 
 Instructies:
 1. Snijd de wortel, knoflook en ui zeer fijn (mag niet te veel zijn dat het pulp wordt tijdens het koken).

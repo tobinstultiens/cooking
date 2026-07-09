@@ -1,0 +1,80 @@
+# Unit metadata for the ingredient scaler (see the ```ingredients block format).
+#
+# This is the single source of truth for units: the codeblock render hook serialises
+# it to JSON for the client-side scaler, which uses it for both scaling and
+# metric<->imperial conversion. Amounts are stored as-authored; conversion works via
+# each unit's `factor` (how many BASE units one of this unit equals).
+#
+#   base weight unit = gram (g)
+#   base volume unit = millilitre (ml)
+#   count units are dimensionless: they scale by number but never convert.
+#
+# `system` is metric | imperial | any. `aliases` lets authors type natural spellings
+# (they are normalised to the canonical key). `abbr` is what the scaler displays.
+
+weight:
+  g:
+    factor: 1
+    system: metric
+    abbr: g
+    aliases: [gram, grams, gr, gramme, grammes]
+  kg:
+    factor: 1000
+    system: metric
+    abbr: kg
+    aliases: [kilogram, kilograms, kilo, kilos]
+  oz:
+    factor: 28.3495
+    system: imperial
+    abbr: oz
+    aliases: [ounce, ounces]
+  lb:
+    factor: 453.592
+    system: imperial
+    abbr: lb
+    aliases: [lbs, pound, pounds]
+
+volume:
+  ml:
+    factor: 1
+    system: metric
+    abbr: ml
+    aliases: [milliliter, milliliters, millilitre, millilitres]
+  l:
+    factor: 1000
+    system: metric
+    abbr: l
+    aliases: [liter, liters, litre, litres]
+  tsp:
+    factor: 4.92892
+    system: imperial
+    abbr: tsp
+    aliases: [teaspoon, teaspoons, theelepel, theelepels, tl]
+  tbsp:
+    factor: 14.7868
+    system: imperial
+    abbr: tbsp
+    aliases: [tablespoon, tablespoons, eetlepel, eetlepels, el]
+  floz:
+    factor: 29.5735
+    system: imperial
+    abbr: fl oz
+    aliases: ["fl oz", "fluid ounce", "fluid ounces"]
+  cup:
+    factor: 236.588
+    system: imperial
+    abbr: cup
+    aliases: [cups, kop, koppen]
+
+# Count units: dimensionless. Scaled by number, never converted between systems.
+# Any unit not found in weight/volume is treated as a count unit automatically, so
+# this list is only for documentation / natural pluralisation hints.
+count:
+  clove:
+    system: any
+    abbr: clove
+    aliases: [cloves, teentje, teentjes]
+  piece:
+    system: any
+    abbr: piece
+    aliases: [pieces, stuk, stuks]

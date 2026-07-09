@@ -8,15 +8,15 @@ title: Miso Soup
 
 # Miso Soup
 [Link](https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/)\\
-Serving: 2 bowls
-
-Ingredients:
-- 4 cups vegetable broth
-- 1 sheet nori, cut into large rectangles (optional)
-- 3-4 tablespoons white or yellow miso paste
-- 1/2 cup chopped green chard, or other sturdy green
-- 1/2 cup chopped green onion
-- 1/4 cup firm tofu, cubed
+```ingredients
+servings: 2
+4 | cup | vegetable broth
+1 | sheet | nori, cut into large rectangles (optional)
+4 | tbsp | white or yellow miso paste
+1/2 | cup | chopped green chard (or other sturdy green)
+1/2 | cup | chopped green onion
+1/4 | cup | firm tofu, cubed
+```
 
 Directions:
 1) Place the vegetable broth in a medium saucepan and bring to a low simmer.

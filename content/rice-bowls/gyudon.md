@@ -5,26 +5,24 @@ tags:
 title: Gyudon
 ---
 
-Serving: 2
-
-Ingredients:
-- 400g Beef (Thinly Sliced) (Note: You can use hot pot beef for this)
-- 1 large Onion
-- 5 g of grated fresh ginger
-- 1.5 cups of rice
-
-Sauce Ingredients:
-- 180ml dashi
-- 15ml shoyu (Japanese soy sauce)
-- 30ml mirin
-- 30ml dry-sake
-- 15g sugar (Use less if you prefer it less sweet)
-
-Toppings:
-- Sliced scallions
-- Togarashi
-- Beni-shoga
-- 1 egg (per Gyudon) - for onsen tamago
+```ingredients
+servings: 2
+400 | g | beef, thinly sliced (hot pot beef works)
+1 | onion | large
+5 | g | grated fresh ginger
+1 1/2 | cup | rice
+# Sauce
+180 | ml | dashi
+15 | ml | shoyu (Japanese soy sauce)
+30 | ml | mirin
+30 | ml | dry sake
+15 | g | sugar (less if you prefer)
+# Toppings
+| | sliced scallions
+| | togarashi
+| | beni-shoga
+1 | egg | per gyudon, for onsen tamago
+```
 
 Steps:
 - Combine the Sauce ingredients in a medium skillet and set it to a medium heat and bring it to a boil.

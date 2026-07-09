@@ -6,18 +6,20 @@ title: Corn salad
 ---
 
 # Ingredients
-- 2 bags frozen fire roasted corn or canned corn
-- I can black beans
-- 1 cucumber
-- 1 red bell peppers
-- 1 shallot
-- Feta cheese
-- 1.5 avocados
-- Juice of 1 lime
-- Light mayo
-- Salt, chili powder, garlic powder, onion powder
-
-Optional: grilled chicken or fish
+```ingredients
+servings: 6
+2 | bag | frozen fire-roasted corn (or canned)
+1 | can | black beans
+1 | cucumber |
+1 | bell pepper | red
+1 | shallot |
+| | feta cheese
+1.5 | avocado |
+| | juice of 1 lime
+| | light mayo
+| | salt, chili powder, garlic powder, onion powder
+| | optional: grilled chicken or fish
+```
 
 # Instructions:
 1. Cook the corn in a dry steel pan to get them nice and toasted and let it cool down.

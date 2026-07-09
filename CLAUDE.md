@@ -40,6 +40,39 @@ There are no tests, linters, or build steps beyond Hugo itself.
 - Taxonomies `categories` and `time` are configured (`config.toml`) but unused — don't
   assume they're required.
 
+## Ingredient scaling (```ingredients block)
+
+- A recipe can *opt in* to serving-size scaling + metric/imperial conversion by writing its
+  ingredient list as a fenced ` ```ingredients ` code block instead of prose bullets. The
+  block is the single source the visible list renders from — don't also keep a prose list.
+  Recipes without the block render exactly as before, so migration is incremental.
+- Format: an optional first line `servings: N` (integer base yield), then one ingredient
+  per line as `amount | unit | item`. Empty `amount` **and** `unit` (`| | salt to taste`)
+  marks a non-scalable line rendered verbatim. `amount` accepts decimals or simple
+  fractions (`1.5`, `1/3`, `1 1/2`); use a single value, not a range (put ranges in `item`).
+  Author in whatever unit is natural — conversion is automatic. Example:
+
+  ````
+  ```ingredients
+  servings: 8
+  3 | lb | pork shoulder, cut into 2-inch cubes
+  1/4 | cup | vegetable oil
+  6 | clove | garlic
+  | | salt to taste
+  ```
+  ````
+- Units come from `data/units.yaml` (the single source: dimension, system, base factor,
+  aliases). Base units are gram and millilitre. Unknown unit tokens are treated as
+  dimensionless count labels (scale by number, shown verbatim), so `2 | onion | (diced)`
+  works. Known count units (clove/piece, incl. Dutch aliases) pluralise automatically.
+- The three moving parts (theme untouched): the codeblock render hook
+  `layouts/_default/_markup/render-codeblock-ingredients.html` emits the list + controls
+  and serialises the units to JSON; `static/recipe-scaler.{js,css}` (loaded globally via the
+  overridden `layouts/partials/head/custom.html`) does scaling, cooking-friendly
+  metric↔imperial rounding, and localStorage persistence (defaults to Metric). The scaler
+  also flips oven **temperatures** in the Steps prose (°F↔°C) via a narrow temperature-only
+  regex. See `docs/adr/0001-structured-ingredient-block.md` for the why.
+
 ## Tags
 
 - Every recipe carries `tags:` drawn from a controlled, three-axis vocabulary defined in

@@ -6,11 +6,13 @@ title: Refried Beans
 
 [Link](https://www.youtube.com/watch?v=Al7F5xG4rAw) 
 
-Ingredients:
-- 1/2 cup lard
-- 1 1/2 cups diced onions
-- 2 teaspoons Kosher salt
-- 2 tablespoons minced Serrano pepper
-- 1 teaspoon ground chipotle (or use chipotle in adobe sauce)
+```ingredients
+servings: 4
+1/2 | cup | lard
+1 1/2 | cup | diced onions
+2 | tsp | kosher salt
+2 | tbsp | minced Serrano pepper
+1 | tsp | ground chipotle (or chipotle in adobo)
+```
 
 I used the chipotle in adobe sauce for the heat which was very nice.

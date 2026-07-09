@@ -7,11 +7,14 @@ title: Roasted Chicken
 # Roasted chicken butterflied
 [Link](https://www.seriouseats.com/butterflied-roasted-chicken-with-quick-jus-recipe)
 ## Ingredients
-- 1 large chicken, about 4 to 5 pounds (1.8 to 2.3kg)
-- 2 tablespoons (30ml) light olive oil or other neutral-flavored oil, such as canola or vegetable, divided
-- Kosher salt and freshly ground black pepper (see note)
-- 1 teaspoon (5g) baking powder (optional; see note)
-- 2 teaspoons (10g) chopped fresh parsley, thyme, rosemary, oregano, marjoram, savory, or a mix (optional)
+```ingredients
+servings: 4
+4.5 | lb | whole chicken (large)
+30 | ml | light olive oil (or neutral oil), divided
+| | kosher salt and freshly ground black pepper (see note)
+5 | g | baking powder (optional; see note)
+10 | g | chopped fresh parsley/thyme/rosemary/oregano (optional)
+```
 ## Directions
 1. Place oven rack in upper-middle position and preheat oven to 450°F (232°C). Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Set backbone aside. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone. Transfer to a wire rack set in a foil-lined rimmed baking sheet. Position chicken so that breasts are aligned with center of baking sheet and legs are close to edge.
 

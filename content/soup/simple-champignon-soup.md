@@ -6,21 +6,23 @@ title: Champignon Soup
 
 # Simple Champignon soup
 [Link](https://www.youtube.com/watch?v=vgIplQn92gU&t=196s)\\
-Ingredients:
-- 4 tablespoons unsalted butter (50g)
-- 2 pounds mixed mushrooms such as button, cremini, portabello, or shiitake (1kg), sliced
-- Kosher salt and freshly ground black pepper
-- 1 medium onion, finely chopped (about 8 ounces; 225g)
-- 4 medium cloves garlic, minced
-- 2 tablespoons flour (45g)
-- 1 cup dry sherry or white wine (235ml)
-- 1 cup milk (235ml)
-- 5 cups (1.2L) homemade or store-bought low-sodium chicken stock, or water
-- 2 bay leaves
-- 2 sprigs fresh thyme
-- Squeeze of lemon juice (optional)
-- Minced fresh herbs such as parsley, chervil, tarragon, and chives for serving.
-- Drizzle extra-virgin olive oil, for serving
+```ingredients
+servings: 6
+50 | g | unsalted butter
+1 | kg | mixed mushrooms (button, cremini, portobello, shiitake), sliced
+| | kosher salt and freshly ground black pepper
+225 | g | onion, finely chopped
+4 | clove | garlic, minced
+45 | g | flour
+235 | ml | dry sherry or white wine
+235 | ml | milk
+1200 | ml | low-sodium chicken stock (or water)
+2 | bay leaf |
+2 | sprig | fresh thyme
+| | squeeze of lemon juice (optional)
+| | minced fresh herbs (parsley, chervil, tarragon, chives) for serving
+| | drizzle of extra-virgin olive oil, for serving
+```
 
 Directions:
 1) Melt butter in a large saucepan or Dutch oven over medium-high heat. Add mushrooms, season with salt and pepper, and cook, stirring frequently, until liquid has evaporated and mushrooms are well-browned, about 12 minutes total. Add onion and cook, stirring, until softened, about 3 minutes. Add garlic and cook until fragrant, about 30 seconds. Add flour and stir to combine.

@@ -5,17 +5,18 @@ tags:
 title: Elotes (Mexican Street Corn)
 ---
 
-Ingredients:
-- 100ml Mayonaise
-- 1-2 teentjes knoflook
-- 1 Limoen
-- Bosui
-- Peterselie (of coriander)
-- 4 Mais kolfen
-
-Toppings:
-- Feta
-- Chili poeder (het liefst ancho or guajillo chile powder maar andere werken)
+```ingredients
+servings: 4
+100 | ml | mayonaise
+2 | teentje | knoflook
+1 | limoen |
+| | bosui
+| | peterselie (of koriander)
+4 | maiskolf |
+# Toppings
+| | feta
+| | chilipoeder (het liefst ancho of guajillo)
+```
 
 Steps:
 1. Grill de mais op een hoge hitte tot het een beetje verkoold is.

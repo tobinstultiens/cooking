@@ -7,14 +7,16 @@ title: Flatbread
 
 [Link](https://www.melskitchencafe.com/homemade-flatbread-greek-pocketless-pitas-with-a-simple-tutorial/) 
 
-Ingredients:
-- 5 grams instant yeast
-- 4 grams granulated sugar
-- 160 milliliters warm water, about 38 degrees Celsius, warm but not hot to the touch
-- 120 milliliters warm milk, about 38 degrees Celsius, warm but not hot to the touch
-- 15 milliliters extra-virgin olive oil
-- 5 grams salt
-- 426 grams bread flour, more or less (see note)
+```ingredients
+servings: 6
+5 | g | instant yeast
+4 | g | granulated sugar
+160 | ml | warm water (about 38°C, warm not hot)
+120 | ml | warm milk (about 38°C, warm not hot)
+15 | ml | extra-virgin olive oil
+5 | g | salt
+426 | g | bread flour, more or less (see note)
+```
 
 Steps
 1. In a large bowl (or bowl of an electric stand mixer fitted with the dough hook), mix the yeast, sugar water, milk, oil, salt and one cup of the flour until well combined.

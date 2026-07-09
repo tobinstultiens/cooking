@@ -6,16 +6,19 @@ title: Asperge Soup
 
 # Homemade Asperge Soup :Soup:
 Voor 5l asperges soep
-ingredienten:
-- 250 boter
-- 3 dikke uien
-- 6 grote eetlepels meel en een ½ liter melk
-- 5 maggie blokken
-- 4 eieren
-- 3kg asperges (mag stukken zijn)
-- Zout en peper naar smaak
-- 1 pakje slagroom
-- 2 Eetlepels fijn gerneden bieslook
+```ingredients
+servings: 10
+250 | g | boter
+3 | ui | dik
+6 | eetlepel | meel
+1/2 | l | melk
+5 | maggiblok |
+4 | ei |
+3 | kg | asperges (mag stukken zijn)
+| | zout en peper naar smaak
+1 | pakje | slagroom
+2 | eetlepel | fijngesneden bieslook
+```
 
 1. eerst de as asperges, schillen in stukken snijden en  15-20 koken.
 2. dan in een pan boter smelten en hierin de fijn gesnipperde uien bakken tot ze glazig zijn.

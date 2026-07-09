@@ -5,16 +5,17 @@ tags:
 title: Chicken honey lime glaze
 ---
 
-Ingredients:
-- Chicken tighs
-
 This makes quite a lot of sauce for like 10 - 12 thighs
 
-Sauce:
-- 1/2 cup Honey
-- 2 tsp Siracha
-- 1 tbsp Chili crisps (chili oil)
-- 1 Limoen
+```ingredients
+servings: 4
+| | chicken thighs
+# Sauce
+1/2 | cup | honey
+2 | tsp | sriracha
+1 | tbsp | chili crisps (chili oil)
+1 | limoen |
+```
 
 Steps BBQ:
 1. Combine the sauce ingredients and combine in a bowl.

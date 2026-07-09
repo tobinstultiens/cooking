@@ -11,27 +11,27 @@ title: Chicken and waffles
 
 # Chicken and waffles
 
-## Ingredients
-- 8 boneless, skinless chicken thighs
-
-## Buttermilk Brine
-- 2 cups (480 mL) buttermilk OR soured whole milk* (see notes)
-- 1 tablespoon kosher salt
-- 2 tablespoons hot sauce or 1 tablespoon chili powder
-
-## Seasoned Flour Crust
-- 3 cups (384 g) all-purpose flour
-- ⅓ cup (43 g) cornstarch
-- 2 teaspoon garlic powder
-- 2 teaspoon kosher salt
-- 2 teaspoon freshly cracked black pepper
-- 1 tsp. cayenne powder
-- 2 tsp. ground mustard
-- 1 tablespoon paprika powder
-
-## Serve with
-- flaky salt
-- Belgian Waffles
-- Maple syrup
-- Optional: Powdered sugar
+```ingredients
+servings: 8
+# Chicken
+8 | chicken thigh | (boneless, skinless)
+# Buttermilk Brine
+2 | cup | buttermilk (or soured whole milk*, see notes)
+1 | tbsp | kosher salt
+2 | tbsp | hot sauce (or 1 tbsp chili powder)
+# Seasoned Flour Crust
+384 | g | all-purpose flour
+43 | g | cornstarch
+2 | tsp | garlic powder
+2 | tsp | kosher salt
+2 | tsp | freshly cracked black pepper
+1 | tsp | cayenne powder
+2 | tsp | ground mustard
+1 | tbsp | paprika powder
+# Serve With
+| | flaky salt
+| | Belgian waffles
+| | maple syrup
+| | powdered sugar (optional)
+```
 

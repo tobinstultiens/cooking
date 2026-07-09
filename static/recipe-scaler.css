@@ -1,0 +1,50 @@
+/* Styling for the ```ingredients scaler (see render-codeblock-ingredients.html).
+   Reuses the theme's CSS custom properties so it tracks light/dark automatically. */
+
+.recipe-scaler { margin: 1.1rem 0 1.2rem; }
+
+.recipe-scaler__controls {
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 1rem 1.5rem; margin-bottom: 0.9rem;
+}
+
+.recipe-scaler__serves { display: flex; align-items: center; gap: 0.4rem; }
+.recipe-scaler__serves-label {
+  font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.6;
+}
+.recipe-scaler__step {
+  cursor: pointer; width: 1.8rem; height: 1.8rem; padding: 0;
+  border: 1px solid var(--button-border-color); background: var(--button-background);
+  color: var(--body-font-color); border-radius: 0.3rem; font-size: 1.1rem; line-height: 1;
+}
+.recipe-scaler__step:hover { border-color: var(--accent-color); }
+.recipe-scaler__serves-input {
+  width: 3.2rem; text-align: center; padding: 0.25rem;
+  border: 1px solid var(--button-border-color); background: var(--button-background);
+  color: var(--body-font-color); border-radius: 0.3rem; font-size: 0.9rem;
+}
+
+.recipe-scaler__units {
+  display: inline-flex; border: 1px solid var(--button-border-color);
+  border-radius: 0.3rem; overflow: hidden;
+}
+.recipe-scaler__system {
+  cursor: pointer; border: none; background: var(--button-background);
+  color: var(--body-font-color); padding: 0.3rem 0.8rem; font-size: 0.8rem; line-height: 1.4;
+}
+.recipe-scaler__system + .recipe-scaler__system { border-left: 1px solid var(--button-border-color); }
+.recipe-scaler__system:hover { color: var(--accent-color); }
+.recipe-scaler__system.is-active { background: var(--accent-color); color: #fff; }
+
+.recipe-scaler__list { list-style: none; margin: 0; padding: 0; }
+.recipe-scaler__item { padding: 0.15rem 0; }
+.recipe-scaler__item--plain { opacity: 0.85; }
+.recipe-scaler__group {
+  list-style: none; font-size: 0.75rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.05em; opacity: 0.55; margin: 0.7rem 0 0.15rem;
+}
+.recipe-scaler__group:first-child { margin-top: 0; }
+.recipe-scaler__qty { font-variant-numeric: tabular-nums; font-weight: 600; }
+
+/* Temperatures rewritten in the recipe steps by the scaler. */
+.rt-temp { white-space: nowrap; }

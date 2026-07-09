@@ -7,30 +7,29 @@ title: Sweet And Sour Chicken
 
 [Link](https://www.youtube.com/watch?v=RUDPussbU04)
 
-Ingredients:
-
-For marination:
-- Salt- 1/2 tsp
-- Pepper powder- 1/2 tsp
-
-For the Batter:
-- Maida/All Purpose Flour- 3 tbsp measure
-- Cornflour- 2 tsp measure
-- Baking powder- 1/4 tsp
-- Salt- 1/4 tsp
-- Egg white- of 1 egg
-- Chilled Water- 4 tbsp
-
-Sweet & Sour Sauce:
-- Tomato Ketchup- 4 tbsp
-- Sugar- 3 tbsp
-- White Vinegar- 3 tbsp
-- Dark Soy Sauce- 3/4 tsp
-
-Other Ingredients:
-- Green bell peppers/capsicum, cubed- 1 cup (around 70 gms)
-- Red bell peppers/capsicum, cubed- 1 cup ( around 70 gms)
-- Oil- 1/2 tbsp oil + oil for deep frying the chicken
+```ingredients
+servings: 3
+| | chicken, cut into bite-sized pieces
+# Marination
+1/2 | tsp | salt
+1/2 | tsp | pepper powder
+# Batter
+3 | tbsp | maida/all-purpose flour
+2 | tsp | cornflour
+1/4 | tsp | baking powder
+1/4 | tsp | salt
+| | egg white of 1 egg
+4 | tbsp | chilled water
+# Sweet & Sour Sauce
+4 | tbsp | tomato ketchup
+3 | tbsp | sugar
+3 | tbsp | white vinegar
+3/4 | tsp | dark soy sauce
+# Other
+70 | g | green bell peppers, cubed
+70 | g | red bell peppers, cubed
+| | oil (1/2 tbsp + more for deep frying)
+```
 
 Preparation:
 1. Wash and leave the chicken pieces/fillets to drain.

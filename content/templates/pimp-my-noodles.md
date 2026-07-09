@@ -7,15 +7,17 @@ title: Pimp My Noodles
 # How to pimp my noodles :Noodles:
 This is a simple guide on how to pimp your instant [noodles](https://www.budgetbytes.com/6-ways-to-upgrade-instant-ramen/).
 
-Ingredients:
-- Vegetables
-- 1 clove Garlic
-- 1/2 tsp grated ginger
-- 250 ml broth
-- 250 ml water
-- 1 package instant ramen
-- 1 egg
-- 1 green onion
+```ingredients
+servings: 1
+| | vegetables
+1 | clove | garlic
+1/2 | tsp | grated ginger
+250 | ml | broth
+250 | ml | water
+1 | package | instant ramen
+1 | egg |
+1 | green onion |
+```
 
 Steps:
 1. Add the oil, garlic, and ginger to a small sauce pot and sauté over medium for about one minute.

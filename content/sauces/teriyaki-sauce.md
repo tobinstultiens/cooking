@@ -8,10 +8,12 @@ title: Teriyaki Sauce
 ## 3 Ingredient Version
 Basic teriyaki sauce
 
-Ingredients: 
-- 1/3 cup Japanese mirin (sweet rice wine) 
-- 2 tablespoons soy sauce, low sodium preferred 
-- 1 tablespoon sugar 
+```ingredients
+servings: 1
+1/3 | cup | Japanese mirin (sweet rice wine)
+2 | tbsp | soy sauce (low-sodium preferred)
+1 | tbsp | sugar
+```
 
 Instructions:
 1. Combine all the ingredients of the Teriyaki Sauce in a sauce pan. On low heat, simmer and reduce it to a thicker consistency, about 10 minutes.
@@ -22,12 +24,14 @@ Instructions:
 ## Improved version
 Basic teriyaki sauce
 
-Ingredients: 
-- 1/3 cup Japanese mirin (sweet rice wine) 
-- 2 tablespoons soy sauce, low sodium preferred 
-- 1 tablespoon sugar 
-- 1-2 tablespoons honey
-- 1 cloves garlic
+```ingredients
+servings: 1
+1/3 | cup | Japanese mirin (sweet rice wine)
+2 | tbsp | soy sauce (low-sodium preferred)
+1 | tbsp | sugar
+1 | tbsp | honey
+1 | clove | garlic
+```
 
 Instructions:
 1. Combine all the ingredients of the Teriyaki Sauce in a sauce pan. On low heat, simmer and reduce it to a thicker consistency, about 10 minutes.
@@ -35,14 +39,17 @@ Instructions:
 [Another way to make teriyaki sauce](https://www.tasteandtellblog.com/teriyaki-chicken/)
 
 ## Storing version
-Ingredients: 
-- 1-2 tablespoons honey
-- 1 cloves garlic
-- 4cm piece ginger
-- mirin
-- 50ml soy sauce
-- 1 tbsp cornflour
-- 1 tbsp rice wine vinegar
-- 350ml water
+
+```ingredients
+servings: 1
+1 | tbsp | honey
+1 | clove | garlic
+| | 4 cm piece ginger
+| | mirin
+50 | ml | soy sauce
+1 | tbsp | cornflour
+1 | tbsp | rice wine vinegar
+350 | ml | water
+```
 
 [Fridge sauce](https://www.bbcgoodfood.com/recipes/teriyaki-sauce)
