@@ -6,16 +6,19 @@ tags:
 title: Quesedillas
 ---
 
-Ingredients: 
-- Wraps 
-- Cheese 
-- Olive oil or Butter
- 
-Optional: 
-- Bacon stukjes 
-- Avocado 
-- Sla 
-- Lente uien 
-- Tomatoes Diced 
-- Prosciutto  
-- Thinly sliced chorizo
+Baseline amounts — adjust to taste.
+
+```ingredients
+servings: 4
+4 | wrap |
+200 | g | cheese
+| | olive oil or butter
+# Optional
+| | bacon stukjes
+| | avocado
+| | sla
+| | lente uien
+| | tomatoes, diced
+| | prosciutto
+| | thinly sliced chorizo
+```

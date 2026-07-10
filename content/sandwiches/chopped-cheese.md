@@ -6,7 +6,7 @@ tags:
 title: Chopped cheese
 ---
 
-[Link](https://www.youtube.com/watch?v=nDjxePZzeSA) 
+[Link](https://www.youtube.com/watch?v=nDjxePZzeSA)
 
 # Chopped cheese
 
@@ -16,43 +16,49 @@ There are a number of different types of sandwich bread you can use such as a ba
 
 ## Italian variant
 
-### Sauce
-- mayonnaise 1 part
-- calabrian chilies, minced 1/2 part
-- vinegar 1/4 part
+Sauce amounts are a baseline (the source gives ratios) — adjust to taste.
 
-### Toppings
-- Tomato
-- Lettuce
-
-### Base
-- ground beef 180 g
-- salt
-- msg
-- onions, diced 1/4
-- low-fat american cheese 1 slice 
-- provolone 1 slice
-- fresh mozzarella 1 slice
+```ingredients
+servings: 1
+# Sauce
+2 | tbsp | mayonnaise
+1 | tbsp | Calabrian chilies, minced
+1/2 | tbsp | vinegar
+# Base
+180 | g | ground beef
+| | salt
+| | MSG
+1/4 | onion | diced
+1 | slice | low-fat American cheese
+1 | slice | provolone
+1 | slice | fresh mozzarella
+# Toppings
+| | tomato
+| | lettuce
+```
 
 ## Jalapeno Cheddar variant
 
-### Sauce
-- mayonnaise 1 part
-- low-fat sour cream 1 part
-- lime juice 1/2 part
+Sauce amounts are a baseline (the source gives ratios) — adjust to taste.
 
-### Toppings
-- Tomato
-- Lettuce
-
-### Base
-- ground beef 180 g
-- salt
-- msg
-- onions, diced 1/4
-- low-fat american cheese 1 slice 
-- pickled jalapeños, diced
-- cheddar, grated
+```ingredients
+servings: 1
+# Sauce
+2 | tbsp | mayonnaise
+2 | tbsp | low-fat sour cream
+1 | tbsp | lime juice
+# Base
+180 | g | ground beef
+| | salt
+| | MSG
+1/4 | onion | diced
+1 | slice | low-fat American cheese
+| | pickled jalapeños, diced
+| | cheddar, grated
+# Toppings
+| | tomato
+| | lettuce
+```
 
 ## Steps
 
@@ -71,5 +77,5 @@ To finish, top the beef and cheese mixture with some shredded lettuce. Then, add
 Transfer the roll to a sheet of aluminum foil and parchment paper and wrap everything up tightly. This will steam a bit and transform it into a true bodega experience.
 Slice open the sandwich and enjoy.
 
-## Note 
+## Note
 There will be some leftover sauce. Optionally, add another line of mayo to the sandwich.
