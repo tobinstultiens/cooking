@@ -8,12 +8,15 @@ title: Fried Chicken Sandwich
 # Five-Ingredient Fried Chicken Sandwiches
 [Link](https://www.youtube.com/watch?v=AQNg1dPKUFU)
 
-Ingredients:
-- Chicken thighs
-- Pickles and Pickle juice
-- Yoghurt
-- Self-rising flour
-- Buns
+```ingredients
+servings: 4
+| | chicken thighs, seasoned generously with salt and pepper
+3/4 | cup | pickle juice (reserve the pickles for topping)
+| | yoghurt (enough to loosen the brine into a batter)
+| | self-rising flour
+1 | tbsp | pepper (worked into the flour)
+| | buns
+```
 
 Directions:
 1. Pour 3/4 cup pickle juice out of pickle jar into a measuring cup. Reserve pickles.

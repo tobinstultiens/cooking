@@ -17,18 +17,26 @@ There are a number of rubs you can use for pulled pork, you can either make them
 
 ### Classic S&P
 
-- Salt
-- Black Pepper
+Baseline is equal parts (1:1) coarse salt and black pepper, adjusted to taste.
+
+```ingredients
+servings: 1
+1 | tbsp | coarse salt
+1 | tbsp | coarse black pepper
+```
 
 ### Sweet & Savory
 
-- 30g Brown sugar
-- 8g Smoked paprika
-- 3g garlic powder
-- 3g onion powder
-- 2g black pepper
-- 1.5g ground mustard
-- 1g cayenne pepper (optional)
+```ingredients
+servings: 1
+30 | g | brown sugar
+8 | g | smoked paprika
+3 | g | garlic powder
+3 | g | onion powder
+2 | g | black pepper
+1.5 | g | ground mustard
+1 | g | cayenne pepper (optional)
+```
 
 ## Steps
 
