@@ -39,6 +39,11 @@ There are no tests, linters, or build steps beyond Hugo itself.
   of a neighboring file rather than inventing new front-matter fields.
 - Taxonomies `categories` and `time` are configured (`config.toml`) but unused — don't
   assume they're required.
+- **Recipes with images must be a page bundle.** Put the markdown as `index.md` in its own
+  folder and keep the image files beside it; reference them with `{{< img name="..." >}}` plus
+  matching `resources:` front matter (see `content/recipes/ala_mario/`). A plain `foo.md` file
+  is *not* a bundle, so `.Page.Resources` is empty and `{{< img >}}` silently renders nothing.
+  Don't duplicate images into `static/`.
 
 ## Ingredient scaling (```ingredients block)
 
