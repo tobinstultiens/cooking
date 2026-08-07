@@ -224,7 +224,12 @@
           updateList(sc);
         });
       });
-      if (input) input.addEventListener("input", function () { updateList(sc); });
+      if (input) {
+        input.addEventListener("input", function () { updateList(sc); });
+        // Select the whole value on focus so typing replaces it instead of appending.
+        input.addEventListener("focus", function () { input.select(); });
+        input.addEventListener("mouseup", function (e) { e.preventDefault(); });
+      }
       sc.querySelectorAll(".recipe-scaler__system").forEach(function (btn) {
         btn.addEventListener("click", function () { applySystem(btn.dataset.system); });
       });
